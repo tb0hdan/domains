@@ -23,6 +23,13 @@ Milestones:
 - [ ] 150 Million
 - [ ] 300 Million
 
+Random facts:
+
+- More than 1TB of Internet traffic is required to produce just 3 Mbytes of compressed data in this repository.
+- It took more than 52TB to have about 30 million domains (1.73TB / 1 million).
+- 1Gbit link will give about 12 million new domains every day
+
+
 # Search engines and crawlers
 
 
