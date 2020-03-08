@@ -44,6 +44,7 @@ xxxl.digital
 app.hageland.digital
 blastup.digital
 stmk.lfi.digital
+kinox.digital
 concise.digital
 kompetenzzentrum-siegen.digital
 www.bruton.digital
@@ -136,6 +137,7 @@ www.infected.digital
 reader.pocketbook.digital
 padlock.digital
 riag.digital
+forbesandclark.archimedes.digital
 www.icw.digital
 quitanda.digital
 qb.digital
@@ -561,6 +563,7 @@ bone.digital
 germinal.reveal.digital
 kr.digital
 www.niceandneat.digital
+chalkhill.digital
 www.canei.digital
 kultura.digital
 meow.digital
@@ -709,6 +712,7 @@ clint.digital
 wallpapers.digital
 smart4u.digital
 feel.digital
+adequate.digital
 www.kleis.digital
 immobilienbewertung.digital
 www.operation.digital
@@ -777,6 +781,7 @@ www.vecto.digital
 cloud.tab.digital
 client.verywell.digital
 www.topideas.digital
+mcir.digital
 www.zestgen.digital
 val.digital
 nexo.digital
