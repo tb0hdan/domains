@@ -134,7 +134,9 @@ scope.digital
 pipes.digital
 www.infected.digital
 reader.pocketbook.digital
+padlock.digital
 riag.digital
+www.icw.digital
 quitanda.digital
 qb.digital
 uh.digital
@@ -149,6 +151,7 @@ www.3du.digital
 koltes.digital
 nck.humanitarian.digital
 jaws2020.vfo.digital
+dailyui.digital
 d4r7.atk.digital
 gus.digital
 jtech.digital
@@ -273,6 +276,7 @@ infos.digital
 www.batu.digital
 nordia.digital
 landingpages.xsw.digital
+eazy.digital
 gibe.digital
 pricingwp.highrise.digital
 authenticity.digital
@@ -556,6 +560,7 @@ www.ibloom.digital
 bone.digital
 germinal.reveal.digital
 kr.digital
+www.niceandneat.digital
 www.canei.digital
 kultura.digital
 meow.digital
@@ -615,6 +620,7 @@ effective.digital
 firehawk.digital
 what.digital
 conteudos.tio.digital
+www.eslenglish.digital
 ne6.digital
 appx.digital
 etikaj.digital
@@ -661,6 +667,8 @@ spacek.digital
 saan.digital
 oborona.digital
 iil.digital
+glennie.digital
+www.zed.digital
 kommunizieren.digital
 www.drijen.digital
 caverna.digital
@@ -1059,6 +1067,7 @@ lucius.digital
 marvin.digital
 www.mwd.digital
 www.freestyle.digital
+libre.digital
 bethere.digital
 studieren.digital
 amalea.digital
