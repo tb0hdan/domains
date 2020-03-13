@@ -11,6 +11,7 @@ www.kompetenzzentrum-textil-vernetzt.digital
 download.schueco.digital
 synergize.digital
 demo.digital
+digitxplus.digital
 osf.digital
 jq.digital
 feed.diesdas.digital
@@ -21,6 +22,7 @@ africanalliance.digital
 artur.digital
 alfama.digital
 courtney.digital
+missdotafrica.digital
 301.digital
 effective.digital
 muendigkeit.digital
@@ -47,6 +49,7 @@ cultured.digital
 ammo.digital
 btp.digital
 bone.digital
+weber.digital
 sichtweise.digital
 sun.digital
 spaceads.digital
@@ -115,6 +118,7 @@ add.digital
 vmedia.digital
 eixo.digital
 defined.digital
+getonline.digital
 zephyrus.digital
 www.oasi.digital
 kompetenzzentrum-darmstadt.digital
@@ -126,6 +130,7 @@ idx.digital
 kurt.digital
 kommune.digital
 www.kompetenzzentrum-usability.digital
+ratio.digital
 www.redoma.digital
 microform.digital
 www.fg.digital
@@ -171,6 +176,7 @@ aletheiacreative.digital
 www.kiln.digital
 portal.tme.digital
 www.ecr.digital
+beauthentic.digital
 arsnova.digital
 standort.digital
 barracuda.digital
@@ -178,6 +184,8 @@ tidal.digital
 www.webeing.digital
 friday.digital
 kompetenzzentrum-saarbruecken.digital
+aspiration.digital
+k2.digital
 tank.digital
 germantech.digital
 p9.digital
@@ -246,6 +254,7 @@ www.bidt.digital
 alchemy.digital
 elagora.digital
 scube.digital
+www.theconference.digital
 kinderrechte.digital
 citadel.digital
 immobilienfinanzierung.digital
@@ -281,6 +290,7 @@ tio.digital
 cf.digital
 ramons.digital
 www.clay.digital
+ssn.digital
 k2estrategia.digital
 www.kompetenzzentrum-planen-und-bauen.digital
 smart4u.digital
@@ -297,6 +307,7 @@ pgb.p9.digital
 formulanegocioonline.digital
 ultimatewedding.digital
 www.terapie.digital
+rising.digital
 www.bildung-forschung.digital
 method.digital
 speakup.digital
@@ -317,12 +328,14 @@ influencers.digital
 aubit.digital
 www.ichthus.digital
 greengroot.digital
+docs.avios.digital
 camhs.digital
 upfor.digital
 kompetenzzentrum-hh.digital
 psd-exchange.boilerhouse.digital
 productlab.digital
 t.ax.digital
+weedoit.digital
 dev.asics.digital
 itg.digital
 sistema.abed.digital
@@ -385,6 +398,7 @@ lecreati.digital
 stmk.lfi.digital
 unig.digital
 allum.digital
+www.dani.digital
 www.spacefarm.digital
 www.salvatore.digital
 olympia.digital
@@ -400,6 +414,7 @@ materiais.agenciadommarketing.digital
 www.fastera.digital
 www.pinion.digital
 www.elperiodico.digital
+probono.digital
 www.nakoa.digital
 robyoung.digital
 orb.digital
@@ -462,6 +477,7 @@ bd.live.solas.britishcouncil.digital
 khs.digital
 en.eas-mag.digital
 app.archivos.digital
+socialme.digital
 manager.digital
 www.responsive.digital
 www.plmr.digital
@@ -474,6 +490,7 @@ yourhealth.mosquito.digital
 conexiones.digital
 www.bildung.digital
 www.drijen.digital
+j15.digital
 dak.digital
 connects.digital
 blog.zain.digital
@@ -523,6 +540,7 @@ making.digital
 passion.digital
 diga33.digital
 www.canei.digital
+www.eccence.digital
 akumulator.digital
 fino.digital
 www.moss.digital
@@ -545,6 +563,7 @@ koltes.digital
 xxxl.digital
 witt.digital
 penguin.digital
+adelphi.digital
 func.digital
 www.futurion.digital
 www.oz.digital
@@ -569,6 +588,7 @@ jacht.digital
 simoncyrene.expertime.digital
 qb.digital
 skoop.digital
+joren.digital
 www.chapeau.digital
 quebecenforme-actiz-develop-phase2.cossette.digital
 block8.digital
@@ -583,6 +603,7 @@ stefanzweig.digital
 you.digital
 romart.digital
 allies.digital
+plumb.digital
 kickflip.digital
 zen.digital
 materiais.eixo.digital
@@ -605,9 +626,11 @@ erfolgreich.digital
 www.lancaster.digital
 tirol.lfi.digital
 crisp.digital
+www.theleader.digital
 myface.digital
 gosign.digital
 load.digital
+git.maschinenraum.digital
 espace.digital
 atk.digital
 muenchen.digital
@@ -625,6 +648,7 @@ superb.digital
 junto.digital
 www.youtoo.digital
 softworx.digital
+www.nephila.digital
 nordia.digital
 www.finessse.digital
 www.bigfinish.digital
@@ -662,15 +686,18 @@ prm.fact.digital
 20160611.interegen.digital
 u-mag.digital
 aptitude.digital
+contrast.digital
 www.baseelement.digital
 para.digital
 integrator.digital
 theones.digital
+lesanimals.digital
 imperial.digital
 ruya.digital
 www.two.digital
 www.route22.digital
 www.prospecta.digital
+apolo.digital
 www.tower33.digital
 www.netent-casino.digital
 ax.digital
@@ -683,6 +710,7 @@ abc.digital
 sales.1plus1.digital
 www.carbono.digital
 goettingen.digital
+lantern.digital
 prod.blf.digital
 kundenportal.nuernberger.digital
 blackstone.digital
@@ -698,11 +726,14 @@ unterweisungen.digital
 selah.digital
 www.sheleader.digital
 www.beep.digital
+pinchepoutine.digital
 linda.digital
+tornis.robbowen.digital
 www.p8.digital
 pmc.digital
 umusic.digital
 www.index.digital
+uk.live.solas.britishcouncil.digital
 cosmitto.digital
 4pi.digital
 bm.digital
@@ -724,6 +755,7 @@ www.anoush.digital
 matador.digital
 wigwam.digital
 www.stalo.digital
+robbowen.digital
 www.netentcasinos.digital
 monocle.steampunk.digital
 1968.digital
@@ -772,6 +804,7 @@ rd.digital
 jpi.alunos.digital
 ava.sae.digital
 myweb.digital
+medialaw.digital
 civica.digital
 www.surfaceimpression.digital
 support.newport.digital
@@ -811,6 +844,7 @@ popoke.digital
 authenticated.digital
 stimmt.digital
 nickel.digital
+lamark.digital
 supremacy.digital
 wecreate.digital
 merex.digital
@@ -903,6 +937,7 @@ imemine.digital
 hyper.digital
 zain.digital
 pact-broker.cloudapps.digital
+robsimpson.digital
 uh.digital
 tab.digital
 client.verywell.digital
@@ -912,8 +947,10 @@ impulso.digital
 x4.digital
 helt.digital
 riseabove-convoy.fundraise.digital
+collider.digital
 showroom.hfd.digital
 nihon.digital
+www.appt.digital
 scaffold.digital
 www.kompetenzzentrum-cottbus.digital
 web.tio.digital
@@ -929,6 +966,7 @@ lucius.digital
 www.aletheia.digital
 www.experianmarketingservices.digital
 www.seoleader.digital
+www.nexcon.digital
 d2.digital
 surfturf.digital
 navody.digital
@@ -998,6 +1036,7 @@ riag.digital
 cone.digital
 www.kroschke.digital
 www.diffusion.digital
+www.sherpa.digital
 norse.digital
 myanmar.actionaid.digital
 sf.digital
@@ -1010,12 +1049,14 @@ wemakewaves.digital
 youtubetomp3.digital
 neverland.digital
 dailyui.digital
+www.ratio.digital
 diffusion.digital
 beep.digital
 gogoanime.digital
 www.competencia.digital
 www.luxurymedia.digital
 www.porsche.digital
+blog.helen.digital
 m42.digital
 fidelidade.digital
 fundraise.digital
@@ -1023,6 +1064,7 @@ www.kinderrechte.digital
 www.backbone.digital
 designhub.digital
 host.byway.digital
+21st.digital
 dops.digital
 terapie.digital
 dev-no.ipsen.com.ipsen.digital
@@ -1033,6 +1075,7 @@ zv.digital
 concilium.digital
 dcs-pilot-docs.cloudapps.digital
 oborona.digital
+sites.digital
 es.backbone.digital
 www.powerpost.digital
 cylinder.digital
@@ -1117,6 +1160,7 @@ www.grand.digital
 what.digital
 hem.digital
 www.onmarketing.digital
+ecuestre.digital
 registers.cloudapps.digital
 ncoisas.digital
 authenticity.digital
@@ -1141,12 +1185,14 @@ careers.tribuna.digital
 feel.digital
 ams.digital
 andi.digital
+kuraga.digital
 davonwoodard.digital
 santashuffle.fundraise.digital
 screener.digital
 www.a360.digital
 caverna.digital
 nuts.digital
+glow.digital
 revive.digital
 bethere.digital
 atd.digital
@@ -1160,10 +1206,12 @@ blog.tail.digital
 www.direct.digital
 status.web.bird.digital
 lafactoria.digital
+www.kadima.digital
 toplevel.digital
 chalkhill.digital
 inborn.digital
 webdesign.digital
+clearpoint.digital
 www.drk-freiwilligendienste-st.digital
 kommunikation-mittelstand.digital
 conteudos.tio.digital
@@ -1198,15 +1246,19 @@ handel-mittelstand.digital
 cors.digital
 time4.digital
 s3.gy.digital
+equestrian.digital
 clint.digital
 thealpha.digital
 immobilienmakler.digital
+anirudh.digital
 bluemoon.digital
+frontend.digital
 www.brigk.digital
 blog.civica.digital
 olblre.ecrome.digital
 agentaruhanbola.digital
 greatnorth.digital
+www.formica.digital
 mastodon.partecipa.digital
 www.blaetz.digital
 karlsruhe.digital
@@ -1225,6 +1277,7 @@ www.radioempfang.digital
 medialiteracy.digital
 roxane.digital
 prototyp.digital
+ili.digital
 kdm.digital
 sheffield.digital
 infact.digital
@@ -1248,6 +1301,7 @@ elearning.bildungswerk.digital
 www.becreative.digital
 rn.digital
 intuitiva.digital
+toowoomba.digital
 jovenes.digital
 amalea.digital
 schmoellerl.digital
@@ -1277,6 +1331,8 @@ vivo.digital
 rhyme.digital
 inbound.appeal.digital
 artmedia.digital
+www.halftone.digital
+dydx.digital
 nexo.digital
 www.singleton.digital
 stacked.digital
@@ -1292,6 +1348,7 @@ kaboom.digital
 mwd.digital
 mvd.digital
 van-der-werf-makelaars.sitekick.digital
+ikotema.digital
 www1.putlocker.digital
 www.lexan.digital
 volby.digital
@@ -1307,6 +1364,7 @@ www.wordofmouth.digital
 www.frost.digital
 flyeralarm.digital
 edumarket.digital
+reflektor.digital
 adviser.digital
 ua.live.solas.britishcouncil.digital
 reloaded.digital
@@ -1355,6 +1413,7 @@ tme.digital
 marketingdigitalportoalegre.genesis.digital
 ventanillaunica.digital
 www.jobcenter.digital
+www.koffler.digital
 www.de.digital
 www.cookies.digital
 manyminds.digital
@@ -1371,6 +1430,7 @@ www.copperbay.digital
 top10.digital
 meine-finanzen.digital
 lk.live.solas.britishcouncil.digital
+in.live.solas.britishcouncil.digital
 www.acadi.digital
 rhymer.digital
 mietverwaltung.digital
