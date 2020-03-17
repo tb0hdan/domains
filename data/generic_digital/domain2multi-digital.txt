@@ -1,4 +1,5 @@
 en.eas-mag.digital
+govukpay-docs.cloudapps.digital
 yourhealth.mosquito.digital
 www.plmr.digital
 firehawk.digital
@@ -48,6 +49,7 @@ webapp.gosign.digital
 purplehippo.digital
 www.lett.digital
 nihon.digital
+govuk-verify.cloudapps.digital
 app.fundraise.digital
 www.neumann.digital
 www.aequitas.digital
@@ -94,6 +96,7 @@ uh.digital
 www.netticasino.digital
 microtech.digital
 dezea.digital
+www.eoi.digital
 devel25.spotit.digital
 wecreate.digital
 kaboom.digital
@@ -102,6 +105,7 @@ algoritm.digital
 www.stefanzweig.digital
 www.pilotfish.digital
 sobol.digital
+www.infocert.digital
 frontend.navody.digital
 inborn.digital
 gosign.digital
@@ -174,6 +178,7 @@ www.davonwoodard.digital
 medialiteracy.digital
 chapeau.digital
 magic14.vfo.digital
+cp.tab.digital
 sprd.digital
 nobody.digital
 kultura.digital
@@ -203,6 +208,7 @@ pipes.digital
 www.taptap.digital
 prod.blf.digital
 www.oasi.digital
+jrs.digital
 www.porsche.digital
 equestrian.digital
 mcir.digital
@@ -280,6 +286,7 @@ what.digital
 blog.joesam.digital
 dist.vfo.digital
 www.nakoa.digital
+sprava.slovensko.digital
 portal.tme.digital
 www.prospecta.digital
 consultancy.load.digital
@@ -501,6 +508,7 @@ fireworks.digital
 mastodon.partecipa.digital
 www.exabytes.digital
 www.pleno.digital
+ru.tab.digital
 upfor.digital
 www.kompetenzzentrum-cottbus.digital
 www.eurosmart.digital
@@ -537,6 +545,7 @@ acacia.digital
 ypsilon.digital
 nightmare.digital
 lesanimals.digital
+registers-docs.cloudapps.digital
 www.d3ddetalhesem3d.digital
 pages.orb.digital
 www.mwd.digital
@@ -633,6 +642,7 @@ kundenportal.nuernberger.digital
 dev-no.ipsen.com.ipsen.digital
 germinal-gb.reveal.digital
 nacao.digital
+secure.hines.digital
 neutral.digital
 stratosfera.digital
 a1.digital
@@ -720,11 +730,13 @@ shopware.slash.digital
 centrolatam.digital
 www.spreewald.digital
 support.newport.digital
+snowpeak.digital
 printart.digital
 app.archivos.digital
 lk.live.solas.britishcouncil.digital
 nuernberg.digital
 joinville.digital
+tct.digital
 demo.digital
 clementine.digital
 ktn.lfi.digital
@@ -870,6 +882,7 @@ www.jobcenter.digital
 www.junto.digital
 www.dentamed.digital
 www.chapeau.digital
+www.actuaries.digital
 vectoracademy.digital
 www.p8.digital
 absolute.digital
@@ -991,6 +1004,7 @@ fiemmeinsieme.epaper.digital
 www.insky.digital
 reloaded.digital
 www.awesome.digital
+www.makeadifference.digital
 scope.digital
 www.ignite.digital
 manyminds.digital
@@ -1102,6 +1116,7 @@ wmn.digital
 bournemouth.digital
 dejavu.dev.msc.digital
 www.ratio.digital
+futureof.digital
 psico.digital
 nexo.digital
 route22.digital
@@ -1297,6 +1312,7 @@ arsnova.digital
 2019.lesanimals.digital
 estrategico.digital
 www.freestyle.digital
+black-amber.digital
 www.jimmykelley.digital
 koffler.digital
 roxane.digital
@@ -1370,6 +1386,7 @@ norse.digital
 www.lfi.digital
 workspace.digital
 sellerschoice.digital
+brz.digital
 youon.digital
 artmedia.digital
 snowball.digital
@@ -1418,6 +1435,7 @@ cultured.digital
 jnm.digital
 steadygo.digital
 www.leftshift.digital
+www.public.digital
 childrens-rights.digital
 www.futurion.digital
 56.digital
