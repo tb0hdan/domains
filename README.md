@@ -33,6 +33,11 @@ Random facts:
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
 
+# Using dataset
+This repository empoys [Git LFS](https://git-lfs.github.com/) technology, therefore user
+has to use both `git lfs` and `xz` to retrieve data. Helper script `unpack.sh` is available.
+
+
 # Search engines and crawlers
 
 
