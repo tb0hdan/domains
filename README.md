@@ -35,7 +35,13 @@ Random facts:
 
 # Using dataset
 This repository empoys [Git LFS](https://git-lfs.github.com/) technology, therefore user
-has to use both `git lfs` and `xz` to retrieve data. Helper script `unpack.sh` is available.
+has to use both `git lfs` and `xz` to retrieve data. Cloning procedure is as follows:
+
+```bash
+git clone https://github.com/tb0hdan/domains.git
+cd domains
+./unpack.sh
+```
 
 
 # Search engines and crawlers
