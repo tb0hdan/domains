@@ -22,15 +22,22 @@ function unpack() {
     find ./data -type f -iname "*.xz" -exec xz -d -k {} \;
 }
 
+function filter() {
+    local fname=$1
+    cat ${fname}|egrep -v '^[\.|-|%]' > ${fname}.1
+    mv ${fname}.1 ${fname}
+}
+
 function combine() {
     olddir=$(pwd)
     for datadir in $(find ./data -type d -mindepth 1); do
         cd ${datadir}
-        big_fname=$(ls *.txt|sed 's/[0-9]//g'|head -n 1)
+        big_fname=$(ls *.txt|sed -E 's/[0-9]+\./\./g'|head -n 1)
         for fname in $(ls *.txt|grep '[0-9]\.txt'); do
             cat $fname >> $big_fname
             rm $fname
         done
+        filter $big_fname
         cd ${olddir}
     done
 }
