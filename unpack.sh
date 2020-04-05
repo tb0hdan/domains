@@ -25,12 +25,12 @@ function unpack() {
 
 function filter() {
     local fname=$1
-    if [ ! -f ${fname} ]; then
+    if [ ! -f "${fname}" ]; then
         echo "Cannot filter non-existent file ..."
         exit 3
     fi
     echo "Filtering ${fname} ..."
-    cat ${fname}|egrep -v '^[\.|-|%]' > ${fname}.1
+    cat ${fname}|egrep -v '^(\.|\-|\%)' > ${fname}.1
     mv ${fname}.1 ${fname}
 }
 
