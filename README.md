@@ -43,6 +43,28 @@ cd domains
 ./unpack.sh
 ```
 
+## Data format
+After unpacking, domain lists are just text files (~1.4Gb at 50mil) with one domain per line.
+Sample for `data/afghanistan/domain2multi-af.txt`:
+
+```
+1tv.af
+1tvnews.af
+3rdeye.af
+8am.af
+aan.af
+acaa.gov.af
+acb.af
+acbr.gov.af
+acci.org.af
+ach.af
+acku.edu.af
+acsf.af
+adras.af
+aeiti.af
+```
+
+
 
 # Search engines and crawlers
 
