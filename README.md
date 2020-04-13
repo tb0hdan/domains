@@ -84,6 +84,10 @@ Crawler code for this project is available at: [Domains Crawler](https://github.
 on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrapping/231
 
 
+# Additional sources
+
+[List of .FR domains from AfNIC.fr](http://opendata.afnic.fr/en/products-and-services/services/opendata-en.html)
+
 # Research
 
 This dataset can be used for research. There are papers that cover different topics.
