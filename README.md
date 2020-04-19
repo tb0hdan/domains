@@ -29,7 +29,7 @@ Random facts:
 - 1 million domains is just 5 Mbytes compressed
 - More than 86TB of Internet traffic is necessary to get 50 million domains (1.73TB / 1 million).
 - Only 230 Mbytes of disk space is required to store 50 million domains in a compressed form
-- 1Gbit fully saturated link is good for about 5 million new domains every day
+- 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
 
@@ -71,6 +71,23 @@ aeiti.af
 
 ## Crawlers
 
+### Domains Project bot
+
+
+Typical user agent for Domains Project bot looks like this:
+
+```
+Mozilla/5.0 (compatible; Domains Project/1.0.6; +http://domainsproject.org)
+```
+
+Some older versions have set to Github repo:
+
+```
+Mozilla/5.0 (compatible; Domains Project/1.0.4; +https://github.com/tb0hdan/domains)
+```
+
+
+### Others
 All data in this dataset is gathered using [Scrapy](https://scrapy.org) and [Colly](http://go-colly.org/) frameworks.
 
 Crawler code for this project is available at: [Domains Crawler](https://github.com/tb0hdan/domains-crawler)
