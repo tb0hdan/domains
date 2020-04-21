@@ -86,16 +86,14 @@ Some older versions have set to Github repo:
 Mozilla/5.0 (compatible; Domains Project/1.0.4; +https://github.com/tb0hdan/domains)
 ```
 
-
-### Others
 All data in this dataset is gathered using [Scrapy](https://scrapy.org) and [Colly](http://go-colly.org/) frameworks.
 
 Crawler code for this project is available at: [Domains Crawler](https://github.com/tb0hdan/domains-crawler)
 
+## Others
 
 
-
-## Yacy
+### Yacy
 
 [Yacy](https://Yacy.net) is a great opensource search engine. Here's my post
 on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrapping/231
