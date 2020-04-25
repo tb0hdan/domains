@@ -8,12 +8,6 @@ This dataset was created as an experiment with hopes of being useful.
 
 [Dataset statistics](STATS.md)
 
-- After reaching 9 million domains I've switched to archived storage.
-  Please use freely available [XZ](https://tukaani.org/xz/) to unpack files.
-
-- After reaching 30 million domains I've moved domain directories to `/data`
-  so repository doesn't have it's README at the very bottom.
-
 Milestones:
 - [x] 10 Million
 - [x] 20 Million
@@ -32,6 +26,10 @@ Random facts:
 - 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
+- After reaching 9 million domains I've switched to archived storage.
+  Please use freely available [XZ](https://tukaani.org/xz/) to unpack files.
+- After reaching 30 million domains I've moved domain directories to `/data`
+  so repository doesn't have it's README at the very bottom.
 
 # Using dataset
 This repository empoys [Git LFS](https://git-lfs.github.com/) technology, therefore user
