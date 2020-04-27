@@ -32,6 +32,9 @@ Random facts:
   so repository doesn't have it's README at the very bottom.
 
 # Using dataset
+Raw (unpacked and unfiltered) data may be available at http://dataset.domainsproject.org, though
+it is recommended to use Github repo.
+
 This repository empoys [Git LFS](https://git-lfs.github.com/) technology, therefore user
 has to use both `git lfs` and `xz` to retrieve data. Cloning procedure is as follows:
 
