@@ -103,6 +103,7 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 # Additional sources
 
 [List of .FR domains from AfNIC.fr](http://opendata.afnic.fr/en/products-and-services/services/opendata-en.html)
+
 [Majestic Million](https://blog.majestic.com/development/majestic-million-csv-daily/)
 
 # Research
