@@ -13,6 +13,7 @@ Milestones:
 - [x] 20 Million
 - [x] 30 Million
 - [x] 50 Million
+- [x] 70 Million
 - [ ] 100 Million
 - [ ] 150 Million
 - [ ] 300 Million
@@ -21,8 +22,8 @@ Random facts:
 
 - More than 1TB of Internet traffic is just 3 Mbytes of compressed data
 - 1 million domains is just 5 Mbytes compressed
-- More than 330TB of Internet traffic is necessary to get 50 million domains (6.6TB / 1 million).
-- Only 230 Mbytes of disk space is required to store 50 million domains in a compressed form
+- More than 488TB of Internet traffic is necessary to get 74 million domains (6.6TB / 1 million).
+- Only 337 Mbytes of disk space is required to store 74 million domains in a compressed form
 - 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
