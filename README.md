@@ -116,6 +116,10 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 
 [Majestic Million](https://blog.majestic.com/development/majestic-million-csv-daily/)
 
+[Internetstiftelsen Zone Data](https://zonedata.iis.se/)
+
+[DNS Census 2013](https://dnscensus2013.neocities.org/)
+
 # Research
 
 This dataset can be used for research. There are papers that cover different topics.
