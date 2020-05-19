@@ -1,6 +1,13 @@
 Welcome to [Domains Project](http://domainsproject.org)!
 ==========
 
+![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)
+![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
+![GitHub repo size](https://img.shields.io/github/repo-size/tb0hdan/domains)
+![GitHub issues](https://img.shields.io/github/issues/tb0hdan/domains)
+![GitHub](https://img.shields.io/github/license/tb0hdan/domains)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tb0hdan/domains)
 
 # Sorted list of internet domains
 
