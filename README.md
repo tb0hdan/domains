@@ -1,8 +1,8 @@
 Welcome to [Domains Project](http://domainsproject.org)!
 ==========
 
-![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/network/members)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tb0hdan/domains)
 ![GitHub issues](https://img.shields.io/github/issues/tb0hdan/domains)
