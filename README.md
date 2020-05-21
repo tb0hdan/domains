@@ -7,7 +7,7 @@ Welcome to [Domains Project](http://domainsproject.org)!
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tb0hdan/domains)
 [![GitHub issues](https://img.shields.io/github/issues/tb0hdan/domains)](https://github.com/tb0hdan/domains/issues)
-![GitHub license](https://img.shields.io/github/license/tb0hdan/domains)
+[![GitHub license](https://github.com/tb0hdan/domains/blob/master/LICENSE)](https://img.shields.io/github/license/tb0hdan/domains)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tb0hdan/domains)](https://github.com/tb0hdan/domains/commits/master)
 
 # Sorted list of internet domains
