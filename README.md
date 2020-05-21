@@ -1,7 +1,7 @@
 Welcome to [Domains Project](http://domainsproject.org)!
 ==========
 
-[![Domain count](https://img.shields.io/badge/domains-129%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+[![Domain count](https://img.shields.io/badge/domains-138%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 [![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/network/members)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
