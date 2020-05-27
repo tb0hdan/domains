@@ -1,7 +1,7 @@
-Welcome to [Domains Project](http://domainsproject.org)!
+Welcome to [Domains Project](https://domainsproject.org)!
 ==========
 
-[![Domain count](https://img.shields.io/badge/domains-173%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+[![Domain count](https://img.shields.io/badge/domains-175%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 [![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/network/members)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
@@ -50,7 +50,7 @@ Random facts:
   so repository doesn't have it's README at the very bottom.
 
 # Using dataset
-Raw (unpacked and unfiltered) data may be available at [http://dataset.domainsproject.org](http://dataset.domainsproject.org), though
+Raw (unpacked and unfiltered) data may be available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org), though
 it is recommended to use Github repo.
 
 This repository empoys [Git LFS](https://git-lfs.github.com/) technology, therefore user
@@ -96,7 +96,7 @@ aeiti.af
 Typical user agent for Domains Project bot looks like this:
 
 ```
-Mozilla/5.0 (compatible; Domains Project/1.0.7; +http://domainsproject.org)
+Mozilla/5.0 (compatible; Domains Project/1.0.7; +https://domainsproject.org)
 ```
 
 Some older versions have set to Github repo:
