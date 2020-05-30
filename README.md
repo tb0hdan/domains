@@ -132,6 +132,9 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 
 [DNS Census 2013](https://dnscensus2013.neocities.org/)
 
+[bigdatanews extract from Common Crawl (circa 2012)](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us)
+
+
 # Research
 
 This dataset can be used for research. There are papers that cover different topics.
