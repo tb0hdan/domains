@@ -1,7 +1,7 @@
 Welcome to [Domains Project](https://domainsproject.org)!
 ==========
 
-[![Domain count](https://img.shields.io/badge/domains-175%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+[![Domain count](https://img.shields.io/badge/domains-194%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 [![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/network/members)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
@@ -27,6 +27,8 @@ This dataset was created as an experiment with hopes of being useful.
 - [x] 70 Million
 - [x] 100 Million
 - [x] 150 Million
+- [ ] 200 Million
+- [ ] 250 Million
 - [ ] 300 Million
 
 ### (Wasted) Internet traffic:
@@ -39,8 +41,8 @@ Random facts:
 
 - More than 1TB of Internet traffic is just 3 Mbytes of compressed data
 - 1 million domains is just 5 Mbytes compressed
-- More than 500TB of Internet traffic is necessary to get 173 million domains (6.6TB / 1 million).
-- Only 658 Mbytes of disk space is required to store 173 million domains in compressed form
+- More than 500TB of Internet traffic is necessary to get 194 million domains (6.6TB / 1 million).
+- Only 756 Mbytes of disk space is required to store 194 million domains in compressed form
 - 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
@@ -63,7 +65,7 @@ cd domains
 ```
 
 ## Data format
-After unpacking, domain lists are just text files (~3.4Gb at 173 mil) with one domain per line.
+After unpacking, domain lists are just text files (~3.9Gb at 194 mil) with one domain per line.
 Sample for `data/afghanistan/domain2multi-af.txt`:
 
 ```
@@ -96,7 +98,7 @@ aeiti.af
 Typical user agent for Domains Project bot looks like this:
 
 ```
-Mozilla/5.0 (compatible; Domains Project/1.0.7; +https://domainsproject.org)
+Mozilla/5.0 (compatible; Domains Project/1.0.8; +https://domainsproject.org)
 ```
 
 Some older versions have set to Github repo:
