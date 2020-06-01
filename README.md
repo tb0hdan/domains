@@ -136,6 +136,8 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 
 [bigdatanews extract from Common Crawl (circa 2012)](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us)
 
+[Common Crawl - March/April 2020](https://commoncrawl.org/2020/04/march-april-2020-crawl-archive-now-available/)
+
 
 # Research
 
