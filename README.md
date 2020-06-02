@@ -1,7 +1,7 @@
 Welcome to [Domains Project](https://domainsproject.org)!
 ==========
 
-[![Domain count](https://img.shields.io/badge/domains-194%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+[![Domain count](https://img.shields.io/badge/domains-201%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 [![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/network/members)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
@@ -10,9 +10,11 @@ Welcome to [Domains Project](https://domainsproject.org)!
 [![GitHub license](https://img.shields.io/github/license/tb0hdan/domains)](https://github.com/tb0hdan/domains/blob/master/LICENSE)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tb0hdan/domains)](https://github.com/tb0hdan/domains/commits/master)
 
-# Sorted list of internet domains
 
-This dataset was created as an experiment with hopes of being useful.
+# World's single largest internet domains dataset
+
+This public dataset contains freely available sorted list of internet domains.
+
 
 [Dataset statistics](STATS.md)
 
@@ -27,7 +29,7 @@ This dataset was created as an experiment with hopes of being useful.
 - [x] 70 Million
 - [x] 100 Million
 - [x] 150 Million
-- [ ] 200 Million
+- [x] 200 Million
 - [ ] 250 Million
 - [ ] 300 Million
 
@@ -41,14 +43,14 @@ Random facts:
 
 - More than 1TB of Internet traffic is just 3 Mbytes of compressed data
 - 1 million domains is just 5 Mbytes compressed
-- More than 500TB of Internet traffic is necessary to get 194 million domains (6.6TB / 1 million).
-- Only 756 Mbytes of disk space is required to store 194 million domains in compressed form
+- More than 500TB of Internet traffic is necessary to get 201 million domains (6.6TB / 1 million).
+- Only 777 Mbytes of disk space is required to store 201 million domains in compressed form
 - 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
-- After reaching 9 million domains I've switched to archived storage.
+- After reaching 9 million domains repository was switched to compressed files.
   Please use freely available [XZ](https://tukaani.org/xz/) to unpack files.
-- After reaching 30 million domains I've moved domain directories to `/data`
+- After reaching 30 million records, files were moved  to `/data`
   so repository doesn't have it's README at the very bottom.
 
 # Using dataset
@@ -65,7 +67,7 @@ cd domains
 ```
 
 ## Data format
-After unpacking, domain lists are just text files (~3.9Gb at 194 mil) with one domain per line.
+After unpacking, domain lists are just text files (~4Gb at 201 mil) with one domain per line.
 Sample for `data/afghanistan/domain2multi-af.txt`:
 
 ```
