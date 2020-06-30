@@ -41,7 +41,7 @@ function combine() {
         echo "Working on ${datadir} ..."
         big_fname=$(ls *.txt|sed -E 's/[0-9]+\./\./g'|head -n 1)
         rm -f ${big_fname}
-        for fname in $(ls *.txt|grep '[0-9]\.txt'); do
+        for fname in $(ls *.txt|grep '[0-9][0-9|a-z]\.txt'); do
             cat $fname >> $big_fname
             rm $fname
         done
