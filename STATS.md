@@ -2,5 +2,5 @@
 TLD kinds: 1507
 Country TLDs: 244
 Generic TLDs: 1263
-Total domains in dataset: 234,779,904
+Total domains in dataset: 235,316,809
 ```
