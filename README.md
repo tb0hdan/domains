@@ -53,6 +53,10 @@ Random facts:
 - After reaching 30 million records, files were moved  to `/data`
   so repository doesn't have it's README at the very bottom.
 
+# Used by
+
+[![CloudSEK](https://raw.githubusercontent.com/tb0hdan/domains/master/logos/CloudSEK.jpg)](https://cloudsek.com)
+
 # Using dataset
 Raw (unpacked and unfiltered) data may be available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org), though
 it is recommended to use Github repo.
