@@ -1,7 +1,7 @@
 Welcome to [Domains Project](https://domainsproject.org)!
 ==========
 
-[![Domain count](https://img.shields.io/badge/domains-244%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+[![Domain count](https://img.shields.io/badge/domains-247%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 [![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/network/members)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
@@ -43,8 +43,8 @@ Random facts:
 
 - More than 1TB of Internet traffic is just 3 Mbytes of compressed data
 - 1 million domains is just 5 Mbytes compressed
-- More than 500TB of Internet traffic is necessary to get 244 million domains (6.6TB / 1 million).
-- Only 975 Mbytes of disk space is required to store 244 million domains in compressed form
+- More than 500TB of Internet traffic is necessary to get 247 million domains (6.6TB / 1 million).
+- Only 985 Mbytes of disk space is required to store 247 million domains in compressed form
 - 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
@@ -58,9 +58,6 @@ Random facts:
 [![CloudSEK](https://raw.githubusercontent.com/tb0hdan/domains/master/logos/CloudSEK.jpg)](https://cloudsek.com)
 
 # Using dataset
-Raw (unpacked and unfiltered) data may be available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org), though
-it is recommended to use Github repo.
-
 This repository empoys [Git LFS](https://git-lfs.github.com/) technology, therefore user
 has to use both `git lfs` and `xz` to retrieve data. Cloning procedure is as follows:
 
@@ -70,8 +67,19 @@ cd domains
 ./unpack.sh
 ```
 
+## Getting unfiltered dataset
+
+Raw data may be available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org), though
+it is recommended to use Github repo.
+
+```bash
+wget -m https://dataset.domainsproject.org
+```
+
+
+
 ## Data format
-After unpacking, domain lists are just text files (~4.9Gb at 244 mil) with one domain per line.
+After unpacking, domain lists are just text files (~5.0Gb at 247 mil) with one domain per line.
 Sample for `data/afghanistan/domain2multi-af.txt`:
 
 ```
