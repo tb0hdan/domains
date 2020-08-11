@@ -155,6 +155,7 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 
 [Common Crawl - March/April 2020](https://commoncrawl.org/2020/04/march-april-2020-crawl-archive-now-available/)
 
+[The CAIDA UCSD IPv4 Routed /24 DNS Names Dataset - January/July 2019](http://www.caida.org/data/active/ipv4_dnsnames_dataset.xml)
 
 # Research
 
