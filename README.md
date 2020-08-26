@@ -72,6 +72,7 @@ has to use both `git lfs` and `xz` to retrieve data. Cloning procedure is as fol
 ```bash
 git clone https://github.com/tb0hdan/domains.git
 cd domains
+git lfs install
 ./unpack.sh
 ```
 
