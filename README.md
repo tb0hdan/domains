@@ -169,11 +169,19 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 This dataset can be used for research. There are papers that cover different topics.
 I'm just going to leave links to them here for reference.
 
+## Analysis
+
+[The Internet of Names: A DNS Big Dataset](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p91.pdf)
+
+[Enabling Network Security Through Active DNS Datasets](https://www.researchgate.net/publication/307872671_Enabling_Network_Security_Through_Active_DNS_Datasets)
+
+
 ## Re-registration and general statistics
 
 [Analysis of the Internet Domain Names Re-registration Market](https://www.researchgate.net/publication/220307877_Analysis_of_the_Internet_Domain_Names_Re-registration_Market)
 
-## Lexical analysis of malicious domains.
+
+## Lexical analysis of malicious domains
 
 [Detection of malicious domains through lexical analysis](https://www.c-mric.com/wp-content/uploads/2018/06/Egon_Cybersecurity2018.pdf)
 
