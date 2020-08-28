@@ -1,7 +1,7 @@
 Welcome to [Domains Project](https://domainsproject.org)!
 ==========
 
-[![Domain count](https://img.shields.io/badge/domains-316%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
+[![Domain count](https://img.shields.io/badge/domains-320%20million-brightgreen)](https://github.com/tb0hdan/domains/blob/master/STATS.md)
 [![GitHub stars](https://img.shields.io/github/stars/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/tb0hdan/domains?style=social)](https://github.com/tb0hdan/domains/network/members)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tb0hdan/domains)
@@ -51,8 +51,8 @@ Random facts:
 
 - More than 1TB of Internet traffic is just 3 Mbytes of compressed data
 - 1 million domains is just 5 Mbytes compressed
-- More than 1TB of Internet traffic is necessary to get 316 million domains (3.4TB / 1 million).
-- Only 1.2Gb of disk space is required to store 316 million domains in compressed form
+- More than 1TB of Internet traffic is necessary to get 320 million domains (3.4TB / 1 million).
+- Only 1.2Gb of disk space is required to store 320 million domains in compressed form
 - 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
 - 2 [ISC Bind9](https://www.isc.org/bind/) instances (>400 Mbytes RSS each) are required to get 2 million new domains every day
@@ -88,7 +88,7 @@ wget -m https://dataset.domainsproject.org
 
 
 ## Data format
-After unpacking, domain lists are just text files (~6.8Gb at 316 mil) with one domain per line.
+After unpacking, domain lists are just text files (~6.9Gb at 320 mil) with one domain per line.
 Sample for `data/afghanistan/domain2multi-af.txt`:
 
 ```
