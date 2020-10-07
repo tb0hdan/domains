@@ -16,7 +16,9 @@ Welcome to [Domains Project](https://domainsproject.org)!
 This public dataset contains freely available sorted list of Internet domains.
 
 
-[Dataset statistics](STATS.md)    [Project news](NEWS.md)
+[Dataset statistics](STATS.md)
+[Project news](NEWS.md)
+[Sponsor this project](https://patreon.com/tb0hdan)
 
 ## Milestones:
 
