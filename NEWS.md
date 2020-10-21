@@ -1,9 +1,15 @@
 # DomainsProject.org news feed
 
+* 21-10-2020
+- 54,081,701 new words for dataset. At least 82,312,348,922 new domains (1.6T) to check, which brings total generated dataset to pretty serious 5.6T.
+
+---
 
 * 03-10-2020
-- 4.0T dataset of generated DNS names is now being processed. Return is small, about 3k domains per 1 million records.
-- Some of those are already in the database, so 212 billion records are expected to yield about 100 million new domains.
+- 4.0T dataset of generated DNS names is now being processed. Return is small, about 8-10k domains per 1 million records.
+- Some of those are already in the database, so 212 billion records are expected to yield about 20 million new domains.
+
+---
 
 * 11-09-2020
 - There's a separate process, called `autovacuum`, running on a regular basis. It cleans up dataset from unreachable (expired, servfail, etc.) domains.
