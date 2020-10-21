@@ -2,6 +2,7 @@
 
 * 21-10-2020
 - 54,081,701 new words for dataset. At least 82,312,348,922 new domains (1.6T) to check, which brings total generated dataset to pretty serious 5.6T.
+- crawler code is now closed source and used internally. Most of the job is now done by [Freya](https://github.com/tb0hdan/freya)
 
 ---
 
