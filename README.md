@@ -141,9 +141,7 @@ Mozilla/5.0 (compatible; Domains Project/1.0.4; +https://github.com/tb0hdan/doma
 
 All data in this dataset is gathered using [Scrapy](https://scrapy.org) and [Colly](http://go-colly.org/) frameworks.
 
-Crawler code for this project is available at: [Domains Crawler](https://github.com/tb0hdan/domains-crawler)
-
-Starting with version `1.0.7` [Domains Crawler](https://github.com/tb0hdan/domains-crawler) has `robots.txt` support
+Starting with version `1.0.7` crawler has partial `robots.txt` support
 and rate limiting. Please open issue if you experience any problems. Don't forget to include your domain.
 
 
