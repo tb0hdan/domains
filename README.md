@@ -127,6 +127,9 @@ Domains Project uses crawler and DNS checks to get new domains.
 DNS checks client is in early stages and is used by select few. It is called [Freya](https://github.com/tb0hdan/freya) and I'm working
 on making it stable and good enough for general public.
 
+HTTP crawler is being rewritten as well. It is called [Idun](https://github.com/tb0hdan/idun)
+
+
 Typical user agent for Domains Project bot looks like this:
 
 ```
