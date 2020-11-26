@@ -20,7 +20,14 @@ This public dataset contains freely available sorted list of Internet domains.
 
 [Project news](NEWS.md)
 
-[Sponsor this project](https://patreon.com/tb0hdan)
+## Support needed!
+
+You can support this project by doing any combination of the following:
+
+- Posting a link on your website to [DomainsProject](https://domainsproject.org)
+- Sponsoring this project on [Patreon](https://patreon.com/tb0hdan)
+- Opening issue and attaching other domain datasets that are not here yet (be sure to scroll through this README first)
+
 
 ## Milestones:
 
