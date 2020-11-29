@@ -190,6 +190,11 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 This dataset can be used for research. There are papers that cover different topics.
 I'm just going to leave links to them here for reference.
 
+
+## Published works based on this dataset
+
+[Phishing Protection SPF, DKIM, DMARC](https://www.scip.ch/en/?labs.20201008)
+
 ## Analysis
 
 [The Internet of Names: A DNS Big Dataset](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p91.pdf)
