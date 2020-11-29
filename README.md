@@ -182,6 +182,9 @@ on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrappin
 
 [GSA Data](https://github.com/GSA/data)
 
+[OpenPageRank 10m hosts](https://www.domcop.com/openpagerank/what-is-openpagerank)
+
+
 # Research
 
 This dataset can be used for research. There are papers that cover different topics.
