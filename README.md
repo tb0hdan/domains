@@ -161,7 +161,8 @@ and rate limiting. Please open issue if you experience any problems. Don't forge
 ### Yacy
 
 [Yacy](https://Yacy.net) is a great opensource search engine. Here's my post
-on Yacy forum: https://searchlab.eu/t/domain-list-for-easier-search-bootstrapping/231
+on Yacy forum: [https://searchlab.eu/t/domain-list-for-easier-search-bootstrapping/231
+](https://searchlab.eu/t/domain-list-for-easier-search-bootstrapping/231)
 
 
 # Additional sources
