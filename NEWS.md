@@ -1,5 +1,10 @@
 # DomainsProject.org news feed
 
+* 29-12-2020
+- Autovacuum tool has removed over 42 million of invalid records (DNS catchers) reducing dataset size to
+  342 million records.
+
+
 * 23-10-2020
 - After adding some generic subdomains (.com.xx, .net.xx, etc) resulting dataset grew significantly. Machine
   ran out of disk space at 3.4T new (7.4T total) / 384 billion records.
