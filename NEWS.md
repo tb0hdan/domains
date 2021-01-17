@@ -1,5 +1,9 @@
 # DomainsProject.org news feed
 
+
+* 17-01-2021
+- [Freya](https://github.com/tb0hdan/freya) DNS worker surpassed 180 billion processed records
+
 * 29-12-2020
 - Autovacuum tool has removed over 42 million of invalid records (DNS catchers) reducing dataset size to
   342 million records.
