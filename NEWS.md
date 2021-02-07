@@ -1,5 +1,7 @@
 # DomainsProject.org news feed
 
+* 26-01-2021
+- Added new 2.8T (133 billion) records for [Freya](https://github.com/tb0hdan/freya) bringing total generated data to 10.2T / 517 billion records
 
 * 17-01-2021
 - [Freya](https://github.com/tb0hdan/freya) DNS worker surpassed 180 billion processed records
