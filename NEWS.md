@@ -1,5 +1,11 @@
 # DomainsProject.org news feed
 
+* 16-03-2021
+- Dataset is back to 380+ million records. ipscan utility is periodically scanning 3.7b IPv4 addresses for domain names.
+
+* 11-02-2021
+- Added new 1.2T (61 billion) records for [Freya](https://github.com/tb0hdan/freya) bringing total generated data to 11.4T / 578 billion records
+
 * 26-01-2021
 - Added new 2.8T (133 billion) records for [Freya](https://github.com/tb0hdan/freya) bringing total generated data to 10.2T / 517 billion records
 
