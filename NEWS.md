@@ -1,5 +1,9 @@
 # DomainsProject.org news feed
 
+
+* 09-03-2021
+- [Freya](https://github.com/tb0hdan/freya) DNS worker has surpassed 500 billion (9.8T) processed records
+
 * 16-03-2021
 - Dataset is back to 380+ million records. ipscan utility is periodically scanning 3.7b IPv4 addresses for domain names.
 
@@ -10,7 +14,7 @@
 - Added new 2.8T (133 billion) records for [Freya](https://github.com/tb0hdan/freya) bringing total generated data to 10.2T / 517 billion records
 
 * 17-01-2021
-- [Freya](https://github.com/tb0hdan/freya) DNS worker surpassed 180 billion processed records
+- [Freya](https://github.com/tb0hdan/freya) DNS worker has surpassed 180 (3.6T) billion processed records
 
 * 29-12-2020
 - Autovacuum tool has removed over 42 million of invalid records (DNS catchers) reducing dataset size to
