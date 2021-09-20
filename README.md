@@ -34,22 +34,9 @@ You can support this project by doing any combination of the following:
 ### Domains
 
 - [x] 10 Million
-- [x] 20 Million
-- [x] 30 Million
-- [x] 50 Million
-- [x] 70 Million
 - [x] 100 Million
-- [x] 150 Million
-- [x] 200 Million
-- [x] 250 Million
-- [x] 300 Million
-- [x] 400 Million
-- [x] 500 Million
-- [ ] 750 Million
-- [ ] 1   Billion
-- [ ] 1.2 Billion
-- [ ] 1.5 Billion
-- [ ] 1.7 Billion
+- [x] 1   Billion
+- [x] 1.7 Billion
 
 
 ### (Wasted) Internet traffic:
@@ -64,7 +51,7 @@ You can support this project by doing any combination of the following:
 
 - More than 1TB of Internet traffic is just 3 Mbytes of compressed data
 - 1 million domains is just 5 Mbytes compressed
-- More than 1.5PB of Internet traffic is necessary to crawl 1.7 billion domains (3.4TB / 1 million).
+- More than 5.7PB of Internet traffic is necessary to crawl 1.7 billion domains (3.4TB / 1 million).
 - Only 4.6Gb of disk space is required to store 1.7 billion domains in compressed form
 - 1Gbit fully saturated link is good for about 2 million new domains every day
 - 8c/16t and 64 Gbytes of RAM machine is good for about 2 million new domains every day
