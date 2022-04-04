@@ -78,8 +78,8 @@ git lfs install
 
 ## Getting unfiltered dataset
 
-Raw data may be available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org), though
-it is recommended to use Github repo.
+For Patreon subscribers raw data is available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org).
+
 
 ```bash
 wget -m https://dataset.domainsproject.org
