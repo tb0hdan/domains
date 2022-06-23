@@ -1,5 +1,9 @@
 # DomainsProject.org news feed
 
+* 24-06-2002
+- And we're back! Crawling was resumed in limited mode. Raw dataset will be updated soon.
+  Github repo updates will be delayed by at least several months.
+
 * 03-04-2022
 - Raw dataset is now available to Patreon subscribers only.
 
