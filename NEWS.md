@@ -1,6 +1,6 @@
 # DomainsProject.org news feed
 
-* 24-06-2002
+* 24-06-2022
 - And we're back! Crawling was resumed in limited mode. Raw dataset will be updated soon.
   Github repo updates will be delayed by at least several months.
 
