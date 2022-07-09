@@ -187,6 +187,7 @@ I'm just going to leave links to them here for reference.
 ## Published works based on this dataset
 
 [Phishing Protection SPF, DKIM, DMARC](https://www.scip.ch/en/?labs.20201008)
+[Email address analysis (Czech)](https://dspace.cvut.cz/bitstream/handle/10467/95434/F8-BP-2021-Strba-Benadik-thesis.pdf?sequence=-1&isAllowed=y)
 
 ## Analysis
 
