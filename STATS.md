@@ -1,7 +1,7 @@
-TLD kinds: 1523
-Country TLDs: 244
+TLD kinds: 1522
+Country TLDs: 243
 Generic TLDs: 1279
-Total domains in dataset: 1,790,027,998
+Total domains in dataset: 1,766,025,618
 
 Registered domains by extension
 - .com: 702,681,019
@@ -13,7 +13,6 @@ Registered domains by extension
 - .br: 30,799,243
 - .fr: 29,527,647
 - .nl: 25,505,512
-- .ru: 24,002,380
 - .pl: 21,710,862
 - .uk: 21,183,335
 - .it: 21,035,651

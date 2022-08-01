@@ -1,5 +1,8 @@
 # DomainsProject.org news feed
 
+* 01-08-2022
+- Better late than never. Russian data is gone and will stay gone. Access to website is blocked as well. Glory to Ukraine!
+
 * 24-06-2022
 - And we're back! Crawling was resumed in limited mode. Raw dataset will be updated soon.
   Github repo updates will be delayed by at least several months.
