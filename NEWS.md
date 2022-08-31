@@ -1,5 +1,8 @@
 # DomainsProject.org news feed
 
+* 31-08-2022
+- Regular dataset refreshes are back! Great news for [Patreon subscribers](https://www.patreon.com/tb0hdan)
+
 * 01-08-2022
 - Better late than never. Russian data is gone and will stay gone. Access to website is blocked as well. Glory to Ukraine!
 
@@ -8,7 +11,7 @@
   Github repo updates will be delayed by at least several months.
 
 * 03-04-2022
-- Raw dataset is now available to Patreon subscribers only.
+- Raw dataset is now available to [Patreon subscribers](https://www.patreon.com/tb0hdan) only.
 
 * 09-03-2021
 - [Freya](https://github.com/tb0hdan/freya) DNS worker has surpassed 500 billion (9.8T) processed records
