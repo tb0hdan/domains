@@ -156,6 +156,8 @@ on Yacy forum: [https://searchlab.eu/t/domain-list-for-easier-search-bootstrappi
 
 # Additional sources
 
+[Rapid7 Sonar FDNS](https://opendata.rapid7.com/sonar.fdns_v2/) - no longer open
+
 [List of .FR domains from AfNIC.fr](http://opendata.afnic.fr/en/products-and-services/services/opendata-en.html)
 
 [Majestic Million](https://blog.majestic.com/development/majestic-million-csv-daily/)
@@ -176,7 +178,8 @@ on Yacy forum: [https://searchlab.eu/t/domain-list-for-easier-search-bootstrappi
 
 [Switch.ch Open Data](https://www.switch.ch/open-data/)
 
-[Rapid7 Sonar FDNS](https://opendata.rapid7.com/sonar.fdns_v2/)
+[Slovak domains - Open Data](https://sk-nic.sk/en/home/)
+
 
 # Research
 
