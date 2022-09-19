@@ -1,5 +1,15 @@
 # DomainsProject.org news feed
 
+* 19-09-2022
+Added regular imports from following sources:
+- france  
+- france-pub
+- slovak
+- sweden
+- switzerland
+- twitter
+
+
 * 31-08-2022
 - Regular dataset refreshes are back! Great news for [Patreon subscribers](https://www.patreon.com/tb0hdan)
 
