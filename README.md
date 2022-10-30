@@ -195,6 +195,8 @@ I'm just going to leave links to them here for reference.
 
 [Proteus: A Self-Designing Range Filter](https://arxiv.org/pdf/2207.01503.pdf)
 
+[Large Scale String Analytics in Arkouda](https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
+
 ## Analysis
 
 [The Internet of Names: A DNS Big Dataset](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p91.pdf)
