@@ -1,8 +1,23 @@
 # DomainsProject.org news feed
 
+* 13-04-2023
+Added two more [Patreon subscriptions](https://www.patreon.com/tb0hdan):
+
+- TLD only domains (~ 250 million)
+- DNS JSON
+
+Latter was requested on multiple occasions and is quite large (~ 500Gbytes TXT / 30 Gbytes compressed).
+Contains only NOERROR records. Updated monthly.
+
+Sample:
+
+```JSON
+{"name":"www.amimaoworld.com.","type":"a","class":"in","status":"noerror","rx_ts":1680854584881852237,"data":{"answers":[{"ttl":3600,"type":"cname","class":"in","name":"www.amimaoworld.com.","data":"amimaoworld.com."},{"ttl":3600,"type":"a","class":"in","name":"amimaoworld.com.","data":"76.223.105.230"},{"ttl":3600,"type":"a","class":"in","name":"amimaoworld.com.","data":"13.248.243.5"}],"authorities":[{"ttl":3600,"type":"ns","class":"in","name":"amimaoworld.com.","data":"ns32.domaincontrol.com."},{"ttl":3600,"type":"ns","class":"in","name":"amimaoworld.com.","data":"ns31.domaincontrol.com."}]},"flags":["rd","ra"],"resolver":"8.20.247.192:53","proto":"udp"}
+```
+
 * 19-09-2022
 Added regular imports from following sources:
-- france  
+- france
 - france-pub
 - slovak
 - sweden
