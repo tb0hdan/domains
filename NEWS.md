@@ -1,5 +1,19 @@
 # DomainsProject.org news feed
 
+* 10-06-2023
+Improved Forward DNS A records with GeoIP2 Lite from Maxmind (so here goes attribution):
+
+This product includes GeoLite2 data created by MaxMind, available from [https://www.maxmind.com](https://www.maxmind.com)
+
+New sample:
+
+```JSON
+{"name":"www.aminahstore.com.","type":"a","class":"in","status":"noerror","rx_ts":1680854584888386756,"data":{"answers":[{"ttl":300,"type":"a","class":"in","name":"www.aminahstore.com.","data":"188.114.96.13","geoIP":{"Country":"NL","City":"Amsterdam"}},{"ttl":300,"type":"a","class":"in","name":"www.aminahstore.com.","data":"188.114.97.13","geoIP":{"Country":"NL","City":"Amsterdam"}}],"authorities":[{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"h.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"k.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"m.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"d.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"g.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"e.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"i.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"j.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"c.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"b.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"a.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"f.gtld-servers.net."},{"ttl":101530,"type":"ns","class":"in","name":"com.","data":"l.gtld-servers.net."}]},"flags":["rd","ra"],"resolver":"5.172.188.121:53","proto":"udp"}
+```
+
+Note: GeoIP metadata is not available for all addresses.
+
+
 * 13-04-2023
 Added two more [Patreon subscriptions](https://www.patreon.com/tb0hdan):
 
