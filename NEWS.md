@@ -1,5 +1,9 @@
 # DomainsProject.org news feed
 
+* 10-10-2023
+
+This is a last update here. For news and important updates visit  my [Patreon page](https://www.patreon.com/tb0hdan/posts)
+
 * 10-06-2023
 Improved Forward DNS A records with GeoIP2 Lite from Maxmind (so here goes attribution):
 
