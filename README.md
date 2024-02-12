@@ -197,6 +197,9 @@ I'm just going to leave links to them here for reference.
 
 [Large Scale String Analytics in Arkouda](https://davidbader.net/publication/2021-drb2/2021-drb2.pdf)
 
+[Fake Phishing: Setup, detection, and take-down](https://jasonmurray.org/posts/2022/fakephishing/)
+
+
 ## Analysis
 
 [The Internet of Names: A DNS Big Dataset](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p91.pdf)
