@@ -144,8 +144,27 @@ Starting with version `1.0.7` crawler has partial `robots.txt` support
 and rate limiting. Please open issue if you experience any problems. Don't forget to include your domain.
 
 
-## Others
 
+### Disabling Domains Project bot access to your website
+
+Add this to your robots.txt:
+
+```
+User-agent: domainsproject.org
+Disallow:/
+```
+
+or this:
+
+```
+User-agent: Domains Project
+Disallow:/
+```
+
+bot checks for both.
+
+
+## Others
 
 ### Yacy
 
