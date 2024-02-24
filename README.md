@@ -25,8 +25,9 @@ This public dataset contains freely available sorted list of Internet domains.
 You can support this project by doing any combination of the following:
 
 - Posting a link on your website to [DomainsProject](https://domainsproject.org)
-- Sponsoring this project on [Patreon](https://patreon.com/tb0hdan)
 - Opening issue and attaching other domain datasets that are not here yet (be sure to scroll through this README first)
+- Publishing research work and linking to [DomainsProject](https://domainsproject.org)
+- Sponsoring this project. See [Subscriptions](https://github.com/tb0hdan/domains/blob/master/SUBSCRIPTIONS.md)
 
 
 ## Milestones:
@@ -78,7 +79,12 @@ git lfs install
 
 ## Getting unfiltered dataset
 
-For Patreon subscribers raw data is available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org).
+[Subscribers](https://github.com/tb0hdan/domains/blob/master/SUBSCRIPTIONS.md) have access to raw data is available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org)
+
+Some other availabe features:
+- TLD only
+- Websocket for new domains
+- DNS JSON (with historical data)
 
 
 ```bash
