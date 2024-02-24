@@ -27,7 +27,7 @@ You can support this project by doing any combination of the following:
 - Posting a link on your website to [DomainsProject](https://domainsproject.org)
 - Opening issue and attaching other domain datasets that are not here yet (be sure to scroll through this README first)
 - Publishing research work and linking to [DomainsProject](https://domainsproject.org)
-- Sponsoring this project. See [Subscriptions](https://github.com/tb0hdan/domains/blob/master/SUBSCRIPTIONS.md)
+- Sponsoring this project. See [Subscriptions](SUBSCRIPTIONS.md)
 
 
 ## Milestones:
@@ -79,7 +79,7 @@ git lfs install
 
 ## Getting unfiltered dataset
 
-[Subscribers](https://github.com/tb0hdan/domains/blob/master/SUBSCRIPTIONS.md) have access to raw data is available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org)
+[Subscribers](SUBSCRIPTIONS.md) have access to raw data is available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org)
 
 Some other availabe features:
 - TLD only
