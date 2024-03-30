@@ -224,6 +224,8 @@ I'm just going to leave links to them here for reference.
 
 [Fake Phishing: Setup, detection, and take-down](https://jasonmurray.org/posts/2022/fakephishing/)
 
+[Cloudy with a Chance of Cyberattacks: Dangling Resources Abuse on Cloud Platforms](https://arxiv.org/html/2403.19368v1)
+
 
 ## Analysis
 
