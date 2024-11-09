@@ -226,6 +226,7 @@ I'm just going to leave links to them here for reference.
 
 [Cloudy with a Chance of Cyberattacks: Dangling Resources Abuse on Cloud Platforms](https://arxiv.org/html/2403.19368v1)
 
+[Data bouncing](https://thecontractor.io/data-bouncing/)
 
 ## Analysis
 
