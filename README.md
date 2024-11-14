@@ -230,6 +230,8 @@ I'm just going to leave links to them here for reference.
 
 [Data bouncing - exampleone](https://databouncing.io/exampleone/)
 
+[GlyphNet: Homoglyph domains dataset and detection using attention-based Convolutional Neural Networks](https://www.researchgate.net/publication/371729377_GlyphNet_Homoglyph_domains_dataset_and_detection_using_attention-based_Convolutional_Neural_Networks)
+
 ## Analysis
 
 [The Internet of Names: A DNS Big Dataset](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p91.pdf)
