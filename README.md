@@ -10,6 +10,10 @@
 [![GitHub license](https://img.shields.io/github/license/tb0hdan/domains)](https://github.com/tb0hdan/domains/blob/master/LICENSE)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tb0hdan/domains)](https://github.com/tb0hdan/domains/commits/master)
 
+# Products and services
+
+[Phish](https://phish.domainsproject.org) is a new monitoring service for battling phishing attacks.
+
 
 # World's single largest Internet domains dataset
 
