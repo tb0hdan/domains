@@ -42,6 +42,7 @@ You can support this project by doing any combination of the following:
 - [x] 100 Million
 - [x] 1   Billion
 - [x] 1.7 Billion
+- [x] 2.3 Billion (Patreon only)
 
 
 ### (Wasted) Internet traffic:
@@ -85,7 +86,7 @@ git lfs install
 
 [Subscribers](SUBSCRIPTIONS.md) have access to raw data is available at [https://dataset.domainsproject.org](https://dataset.domainsproject.org)
 
-Some other availabe features:
+Some other available features:
 - TLD only
 - Websocket for new domains
 - DNS JSON (with historical data)
