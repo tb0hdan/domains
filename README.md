@@ -44,8 +44,9 @@ You can support this project by doing any combination of the following:
 - [x] 100 Million
 - [x] 1   Billion
 - [x] 1.7 Billion
-- [x] 2.3 Billion (Patreon only)
-
+- [x] 2.1 Billion [Patreon only](https://www.patreon.com/posts/2-166-358-467-118605333)
+- [x] 2.3 Billion [Patreon only](https://www.patreon.com/posts/2-372-976-666-119442372)
+- [x] 2.4 Billion [Patreon only](https://www.patreon.com/posts/2-402-983-460-121992517)
 
 ### (Wasted) Internet traffic:
 
