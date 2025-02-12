@@ -55,6 +55,8 @@ You can support this project by doing any combination of the following:
 - [x] 1PB
 - [x] 1.3PB
 - [x] 1.5PB
+- [x] 5.7PB
+- [x] 8.1PB  
 
 ### Random facts:
 
