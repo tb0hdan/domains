@@ -8,6 +8,8 @@
 
 [PayPal](https://paypal.com) - Send to tb0hdan _at_ gmail _dot_ com
 
+[BuyMeACoffee](https://buymeacoffee.com/tb0hdan) - Only if Patreon doesn't work for you
+
 
 ## Alternative (business only)
 
