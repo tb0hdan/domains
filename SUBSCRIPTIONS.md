@@ -4,11 +4,13 @@
 
 [Patreon](https://patreon.com/tb0hdan)
 
-## Alternative (personal)
+## Alternative (personal) - - Only if Patreon doesn't work for you
 
-[PayPal](https://paypal.com) - Send to tb0hdan _at_ gmail _dot_ com
+[PayPal](https://paypal.me/tb0hdan)
 
-[BuyMeACoffee](https://buymeacoffee.com/tb0hdan) - Only if Patreon doesn't work for you
+[BuyMeACoffee](https://buymeacoffee.com/tb0hdan)
+
+[Ko-Fi](https://ko-fi.com/tb0hdan)
 
 
 ## Alternative (business only)
