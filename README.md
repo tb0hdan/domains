@@ -46,7 +46,7 @@ You can support this project by doing any combination of the following:
 - [x] 1.7 Billion [Github](https://github.com/tb0hdan/domains)
 - [x] 2.1 Billion [Patreon only](https://www.patreon.com/posts/2-166-358-467-118605333)
 - [x] 2.4 Billion [Patreon only](https://www.patreon.com/posts/2-402-983-460-121992517)
-- [x] 2.5 Billion [Patreon only](https://www.patreon.com/posts/125472852) 
+- [x] 2.5 Billion [Patreon only](https://www.patreon.com/posts/2-503-218-821-125472852) 
 
 ### (Wasted) Internet traffic:
 
