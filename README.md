@@ -34,6 +34,7 @@ You can support this project by doing any combination of the following:
 - Opening issue and attaching other domain datasets that are not here yet (be sure to scroll through this README first)
 - Publishing research work and linking to [DomainsProject](https://domainsproject.org)
 - Sponsoring this project. See [Subscriptions](SUBSCRIPTIONS.md)
+- Running Passive DNS sensor. See [Passive DNS sensor repository](https://github.com/tb0hdan/pdns-sensor)
 
 
 ## Milestones:
