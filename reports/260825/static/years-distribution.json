@@ -1,0 +1,54 @@
+{
+  "yearsDistribution": [
+    {
+      "year": "2013",
+      "count": 76199
+    },
+    {
+      "year": "2020",
+      "count": 48132
+    },
+    {
+      "year": "2012",
+      "count": 45049
+    },
+    {
+      "year": "2018",
+      "count": 38438
+    },
+    {
+      "year": "2024",
+      "count": 35223
+    },
+    {
+      "year": "2030",
+      "count": 34789
+    },
+    {
+      "year": "2023",
+      "count": 33809
+    },
+    {
+      "year": "2021",
+      "count": 29797
+    },
+    {
+      "year": "2019",
+      "count": 27893
+    },
+    {
+      "year": "2017",
+      "count": 25905
+    }
+  ],
+  "statistics": {
+    "totalYearDomains": 673817,
+    "totalDomains": 1781057104,
+    "topYear": "2013",
+    "yearRange": {
+      "earliest": "2012",
+      "latest": "2030"
+    }
+  },
+  "lastUpdated": "2025-09-05T04:33:41-04:00"
+}

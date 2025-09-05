@@ -1,0 +1,67 @@
+{
+  "namesDistribution": [
+    {
+      "name": "mark",
+      "count": 683034,
+      "gender": "male"
+    },
+    {
+      "name": "ann",
+      "count": 428568,
+      "gender": "female"
+    },
+    {
+      "name": "john",
+      "count": 404358,
+      "gender": "male"
+    },
+    {
+      "name": "david",
+      "count": 250354,
+      "gender": "male"
+    },
+    {
+      "name": "jack",
+      "count": 229703,
+      "gender": "male"
+    },
+    {
+      "name": "paul",
+      "count": 214565,
+      "gender": "male"
+    },
+    {
+      "name": "mia",
+      "count": 211888,
+      "gender": "female"
+    },
+    {
+      "name": "ava",
+      "count": 204125,
+      "gender": "female"
+    },
+    {
+      "name": "daniel",
+      "count": 201492,
+      "gender": "male"
+    },
+    {
+      "name": "michael",
+      "count": 196850,
+      "gender": "male"
+    }
+  ],
+  "statistics": {
+    "totalNameDomains": 9392969,
+    "totalDomains": 1766318886,
+    "topName": "mark",
+    "genderTypes": {
+      "female": 3,
+      "male": 7
+    },
+    "coveragePercentage": 0.5317821755997462,
+    "maleNames": 2180356,
+    "femaleNames": 844581
+  },
+  "lastUpdated": "2025-09-05T05:51:31-04:00"
+}

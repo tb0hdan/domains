@@ -1,0 +1,65 @@
+{
+  "locationDistribution": [
+    {
+      "location": "china",
+      "type": "country",
+      "count": 164442
+    },
+    {
+      "location": "india",
+      "type": "country",
+      "count": 158003
+    },
+    {
+      "location": "dallas",
+      "type": "city",
+      "count": 96989
+    },
+    {
+      "location": "phoenix",
+      "type": "city",
+      "count": 89814
+    },
+    {
+      "location": "london",
+      "type": "city",
+      "count": 83728
+    },
+    {
+      "location": "japan",
+      "type": "country",
+      "count": 76066
+    },
+    {
+      "location": "france",
+      "type": "country",
+      "count": 71531
+    },
+    {
+      "location": "israel",
+      "type": "country",
+      "count": 68590
+    },
+    {
+      "location": "miami",
+      "type": "city",
+      "count": 63008
+    },
+    {
+      "location": "chicago",
+      "type": "city",
+      "count": 62833
+    }
+  ],
+  "statistics": {
+    "totalLocationDomains": 3761217,
+    "totalDomains": 1781057104,
+    "topLocation": "china",
+    "locationTypes": {
+      "cities": 5,
+      "countries": 5
+    },
+    "coveragePercentage": 0.21117891119565138
+  },
+  "lastUpdated": "2025-09-05T05:51:31-04:00"
+}

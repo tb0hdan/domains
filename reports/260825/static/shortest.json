@@ -1,0 +1,83 @@
+{
+  "shortestDomains": [
+    {
+      "domain": "y.dk.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "m.bg.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "y.ee.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "w.st.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "y.de.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "w.sv.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "l.io.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "w.td.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "w.tl.",
+      "length": 5,
+      "count": 1
+    },
+    {
+      "domain": "w.tt.",
+      "length": 5,
+      "count": 1
+    }
+  ],
+  "lengthDistribution": [
+    {
+      "length": 5,
+      "count": 2644
+    },
+    {
+      "length": 6,
+      "count": 70316
+    },
+    {
+      "length": 7,
+      "count": 957430
+    },
+    {
+      "length": 8,
+      "count": 2748149
+    },
+    {
+      "length": 9,
+      "count": 6314594
+    },
+    {
+      "length": 10,
+      "count": 12217643
+    }
+  ],
+  "totalAnalyzed": 1781057104,
+  "averageLength": 28.239019599677025,
+  "lastUpdated": "2025-09-05T04:22:35-04:00"
+}

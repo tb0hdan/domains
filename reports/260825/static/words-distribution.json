@@ -1,0 +1,60 @@
+{
+  "wordsDistribution": [
+    {
+      "word": "www",
+      "withHyphen": 0,
+      "withoutHyphen": 274175010
+    },
+    {
+      "word": "com",
+      "withHyphen": 0,
+      "withoutHyphen": 81648787
+    },
+    {
+      "word": "dynamic",
+      "withHyphen": 0,
+      "withoutHyphen": 58205845
+    },
+    {
+      "word": "mail",
+      "withHyphen": 0,
+      "withoutHyphen": 58089970
+    },
+    {
+      "word": "compute",
+      "withHyphen": 0,
+      "withoutHyphen": 51589380
+    },
+    {
+      "word": "amazonaws",
+      "withHyphen": 0,
+      "withoutHyphen": 51313510
+    },
+    {
+      "word": "ec2",
+      "withHyphen": 0,
+      "withoutHyphen": 50976574
+    },
+    {
+      "word": "co",
+      "withHyphen": 0,
+      "withoutHyphen": 46387270
+    },
+    {
+      "word": "static",
+      "withHyphen": 0,
+      "withoutHyphen": 41699116
+    },
+    {
+      "word": "ne",
+      "withHyphen": 0,
+      "withoutHyphen": 39948040
+    }
+  ],
+  "statistics": {
+    "totalDomains": 1781057104,
+    "totalWithHyphens": 730299496,
+    "totalWithoutHyphens": 1050757608
+  },
+  "lastUpdated": "2025-09-05T04:33:41-04:00"
+}

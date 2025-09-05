@@ -1,0 +1,92 @@
+{
+  "hostedInDistribution": [
+    {
+      "location": "United States",
+      "count": 1118547306,
+      "countryCode": "US",
+      "topCity": "Ashburn",
+      "cityCount": 147973540
+    },
+    {
+      "location": "Germany",
+      "count": 176200428,
+      "countryCode": "DE",
+      "topCity": "Frankfurt am Main",
+      "cityCount": 21718105
+    },
+    {
+      "location": "Japan",
+      "count": 77571221,
+      "countryCode": "JP",
+      "topCity": "Tokyo",
+      "cityCount": 12553545
+    },
+    {
+      "location": "Canada",
+      "count": 72409959,
+      "countryCode": "CA",
+      "topCity": "Ottawa",
+      "cityCount": 12348662
+    },
+    {
+      "location": "France",
+      "count": 71126782,
+      "countryCode": "FR",
+      "topCity": "Paris",
+      "cityCount": 8012730
+    },
+    {
+      "location": "United Kingdom",
+      "count": 60328214,
+      "countryCode": "GB",
+      "topCity": "London",
+      "cityCount": 9651156
+    },
+    {
+      "location": "Netherlands",
+      "count": 44706138,
+      "countryCode": "NL",
+      "topCity": "Amsterdam",
+      "cityCount": 13643855
+    },
+    {
+      "location": "Hong Kong",
+      "count": 41089240,
+      "countryCode": "HK",
+      "topCity": "Hong Kong",
+      "cityCount": 19977202
+    },
+    {
+      "location": "Italy",
+      "count": 33223813,
+      "countryCode": "IT",
+      "topCity": "Arezzo",
+      "cityCount": 12344031
+    },
+    {
+      "location": "Australia",
+      "count": 27538324,
+      "countryCode": "AU",
+      "topCity": "Sydney",
+      "cityCount": 10739373
+    }
+  ],
+  "statistics": {
+    "totalDomainsWithGeoIP": 2118693329,
+    "totalDomains": 1781057104,
+    "uniqueCountries": 48,
+    "uniqueCities": 52246,
+    "topCountry": "United States",
+    "topCity": "Ashburn",
+    "coveragePercentage": 118.95706904858454,
+    "continentDistribution": {
+      "NorthAmerica": 1195202498,
+      "Europe": 568201000,
+      "Asia": 197118238,
+      "Oceania": 30056137,
+      "SouthAmerica": 33254932,
+      "Africa": 14385848
+    }
+  },
+  "lastUpdated": "2025-09-05T04:33:41-04:00"
+}

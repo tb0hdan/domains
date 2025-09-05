@@ -1,0 +1,270 @@
+{
+  "lengthDistribution": [
+    {
+      "length": 5,
+      "count": 2644
+    },
+    {
+      "length": 6,
+      "count": 70316
+    },
+    {
+      "length": 7,
+      "count": 957430
+    },
+    {
+      "length": 8,
+      "count": 2748149
+    },
+    {
+      "length": 9,
+      "count": 6314594
+    },
+    {
+      "length": 10,
+      "count": 12217643
+    },
+    {
+      "length": 11,
+      "count": 18656440
+    },
+    {
+      "length": 12,
+      "count": 23009498
+    },
+    {
+      "length": 13,
+      "count": 29858300
+    },
+    {
+      "length": 14,
+      "count": 38268387
+    },
+    {
+      "length": 15,
+      "count": 47581089
+    },
+    {
+      "length": 16,
+      "count": 52748313
+    },
+    {
+      "length": 17,
+      "count": 58155560
+    },
+    {
+      "length": 18,
+      "count": 60500583
+    },
+    {
+      "length": 19,
+      "count": 63619946
+    },
+    {
+      "length": 20,
+      "count": 65381420
+    },
+    {
+      "length": 21,
+      "count": 64779693
+    },
+    {
+      "length": 22,
+      "count": 63897007
+    },
+    {
+      "length": 23,
+      "count": 62290604
+    },
+    {
+      "length": 24,
+      "count": 61754103
+    },
+    {
+      "length": 25,
+      "count": 61850177
+    },
+    {
+      "length": 26,
+      "count": 63234094
+    },
+    {
+      "length": 27,
+      "count": 60025056
+    },
+    {
+      "length": 28,
+      "count": 65177502
+    },
+    {
+      "length": 29,
+      "count": 63646802
+    },
+    {
+      "length": 30,
+      "count": 64394365
+    },
+    {
+      "length": 31,
+      "count": 55084501
+    },
+    {
+      "length": 32,
+      "count": 47553035
+    },
+    {
+      "length": 33,
+      "count": 52690447
+    },
+    {
+      "length": 34,
+      "count": 47886002
+    },
+    {
+      "length": 35,
+      "count": 45755983
+    },
+    {
+      "length": 36,
+      "count": 45121202
+    },
+    {
+      "length": 37,
+      "count": 41955572
+    },
+    {
+      "length": 38,
+      "count": 27660490
+    },
+    {
+      "length": 39,
+      "count": 26179237
+    },
+    {
+      "length": 40,
+      "count": 28739591
+    },
+    {
+      "length": 41,
+      "count": 25121859
+    },
+    {
+      "length": 42,
+      "count": 26537295
+    },
+    {
+      "length": 43,
+      "count": 25364145
+    },
+    {
+      "length": 44,
+      "count": 17395632
+    },
+    {
+      "length": 45,
+      "count": 16976899
+    },
+    {
+      "length": 46,
+      "count": 16884033
+    },
+    {
+      "length": 47,
+      "count": 18312834
+    },
+    {
+      "length": 48,
+      "count": 13338516
+    },
+    {
+      "length": 49,
+      "count": 15688154
+    },
+    {
+      "length": 50,
+      "count": 22689581
+    },
+    {
+      "length": 51,
+      "count": 15184459
+    },
+    {
+      "length": 52,
+      "count": 8634135
+    },
+    {
+      "length": 53,
+      "count": 5554793
+    },
+    {
+      "length": 54,
+      "count": 4803489
+    },
+    {
+      "length": 55,
+      "count": 5258317
+    },
+    {
+      "length": 56,
+      "count": 3191576
+    },
+    {
+      "length": 57,
+      "count": 2004608
+    },
+    {
+      "length": 58,
+      "count": 906628
+    },
+    {
+      "length": 59,
+      "count": 784057
+    },
+    {
+      "length": 60,
+      "count": 629044
+    },
+    {
+      "length": 61,
+      "count": 769766
+    },
+    {
+      "length": 62,
+      "count": 705970
+    },
+    {
+      "length": 63,
+      "count": 1432997
+    },
+    {
+      "length": 64,
+      "count": 535148
+    },
+    {
+      "length": 65,
+      "count": 540917
+    },
+    {
+      "length": 66,
+      "count": 338766
+    },
+    {
+      "length": 67,
+      "count": 287030
+    },
+    {
+      "length": 68,
+      "count": 236578
+    }
+  ],
+  "statistics": {
+    "totalDomains": 1781057104,
+    "minLength": 5,
+    "maxLength": 253,
+    "averageLength": 28.239019599677025,
+    "medianLength": 27,
+    "mode": 20,
+    "standardDeviation": 10.654397705525982
+  },
+  "lastUpdated": "2025-09-05T05:51:31-04:00"
+}

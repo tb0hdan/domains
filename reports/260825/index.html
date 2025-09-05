@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analytics Dashboard</title>
+    <link rel="stylesheet" href="static/css/dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Domain Analytics Dashboard</h1>
+        <p>Comprehensive Domain Analysis and Statistics</p>
+        
+        <div class="chart-section">
+            <h2>Domain Distribution Analysis</h2>
+            <div class="loading" id="loading">Loading TLD data...</div>
+            <div class="loading" id="loadingShortest">Loading shortest domains data...</div>
+            <div class="loading" id="loadingLongest">Loading longest domains data...</div>
+            <div class="error" id="error"></div>
+            <div class="error" id="errorShortest"></div>
+            <div class="error" id="errorLongest"></div>
+            
+            <div class="charts-row">
+                <div>
+                    <h3 style="text-align: center; color: #667eea;">Top 5 TLDs by Count</h3>
+                    <div class="chart-container">
+                        <canvas id="tldChart"></canvas>
+                    </div>
+                </div>
+                <div>
+                    <h3 style="text-align: center; color: #764ba2;">Top 5 Shortest Domains</h3>
+                    <div class="chart-container">
+                        <canvas id="shortestChart"></canvas>
+                    </div>
+                </div>
+                <div>
+                    <h3 style="text-align: center; color: #f5576c;">Top 5 Longest Domains</h3>
+                    <div class="chart-container">
+                        <canvas id="longestChart"></canvas>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="stats" id="stats">
+                <div class="stat-card">
+                    <h3 id="totalDomains">-</h3>
+                    <p>Total Domains</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topTld">-</h3>
+                    <p>Most Common TLD</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="avgLength">-</h3>
+                    <p>Average Length</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="shortestDomain">-</h3>
+                    <p>Shortest Domain</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="longestDomain">-</h3>
+                    <p>Longest Domain</p>
+                </div>
+            </div>
+            
+            <div style="display: flex; gap: 20px; flex-wrap: wrap;">
+                <div class="tld-list" id="tldList" style="display: none; flex: 1;">
+                    <h3>Top 5 TLD Breakdown</h3>
+                    <div id="tldListContent"></div>
+                </div>
+                <div class="tld-list" id="shortestList" style="display: none; flex: 1;">
+                    <h3>Top 5 Shortest Domains</h3>
+                    <div id="shortestListContent"></div>
+                </div>
+                <div class="tld-list" id="longestList" style="display: none; flex: 1;">
+                    <h3>Top 5 Longest Domains</h3>
+                    <div id="longestListContent"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="distribution-section">
+            <h2>Domain Length Distribution</h2>
+            <div class="loading" id="loadingDistribution">Loading distribution data...</div>
+            <div class="error" id="errorDistribution"></div>
+            
+            <div class="distribution-chart-container">
+                <canvas id="distributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="distributionStats">
+                <div class="stat-card">
+                    <h3 id="minLength">-</h3>
+                    <p>Min Length</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="maxLength">-</h3>
+                    <p>Max Length</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="medianLength">-</h3>
+                    <p>Median Length</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="stdDev">-</h3>
+                    <p>Std Deviation</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="years-distribution-section">
+            <h2>Year-Based Domain Distribution</h2>
+            <div class="loading" id="loadingYearsDistribution">Loading years distribution data...</div>
+            <div class="error" id="errorYearsDistribution"></div>
+            
+            <div class="years-distribution-chart-container">
+                <canvas id="yearsDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="yearsDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalYearDomains">-</h3>
+                    <p>Year-Based Domains</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topYear">-</h3>
+                    <p>Most Popular Year</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="yearRange">-</h3>
+                    <p>Year Range</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="prefix-distribution-section">
+            <h2>Single Letter Prefix Distribution</h2>
+            <div class="loading" id="loadingPrefixDistribution">Loading prefix distribution data...</div>
+            <div class="error" id="errorPrefixDistribution"></div>
+            
+            <div class="prefix-distribution-chart-container">
+                <canvas id="prefixDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="prefixDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalPrefixDomains">-</h3>
+                    <p>Letter-Based Domains</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topPrefix">-</h3>
+                    <p>Most Popular Prefix</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="alphabetCoverage">-</h3>
+                    <p>Letters Used</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="coveragePercentage">-</h3>
+                    <p>Coverage %</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="location-distribution-section">
+            <h2>Geographic Location Distribution</h2>
+            <div class="loading" id="loadingLocationDistribution">Loading location distribution data...</div>
+            <div class="error" id="errorLocationDistribution"></div>
+            
+            <div class="location-distribution-chart-container">
+                <canvas id="locationDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="locationDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalLocationDomains">-</h3>
+                    <p>Location-Based Domains</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topLocation">-</h3>
+                    <p>Most Popular Location</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="locationCities">-</h3>
+                    <p>Cities</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="locationCountries">-</h3>
+                    <p>Countries</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="names-distribution-section">
+            <h2>First Names Distribution</h2>
+            <div class="loading" id="loadingNamesDistribution">Loading names distribution data...</div>
+            <div class="error" id="errorNamesDistribution"></div>
+            
+            <div class="names-distribution-chart-container">
+                <canvas id="namesDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="namesDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalNameDomains">-</h3>
+                    <p>Name-Based Domains</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topName">-</h3>
+                    <p>Most Popular Name</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="maleNames">-</h3>
+                    <p>Male Names</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="femaleNames">-</h3>
+                    <p>Female Names</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="health-distribution-section">
+            <h2>Health Sector Distribution</h2>
+            <div class="loading" id="loadingHealthDistribution">Loading health distribution data...</div>
+            <div class="error" id="errorHealthDistribution"></div>
+            
+            <div class="health-distribution-chart-container">
+                <canvas id="healthDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="healthDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalHealthDomains">-</h3>
+                    <p>Health-Based Domains</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topHealthTerm">-</h3>
+                    <p>Most Popular Term</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="healthFacilities">-</h3>
+                    <p>Facilities</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="healthProfessionals">-</h3>
+                    <p>Professionals</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="healthTreatments">-</h3>
+                    <p>Treatments</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hospitality-distribution-section">
+            <h2>Hospitality Sector Distribution</h2>
+            <div class="loading" id="loadingHospitalityDistribution">Loading hospitality distribution data...</div>
+            <div class="error" id="errorHospitalityDistribution"></div>
+            
+            <div class="hospitality-distribution-chart-container">
+                <canvas id="hospitalityDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="hospitalityDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalHospitalityDomains">-</h3>
+                    <p>Hospitality Domains</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topHospitalityTerm">-</h3>
+                    <p>Most Popular Term</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="hospitalityDining">-</h3>
+                    <p>Dining</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="hospitalityAccommodation">-</h3>
+                    <p>Accommodation</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="hospitalityEntertainment">-</h3>
+                    <p>Entertainment</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hosted-in-distribution-section">
+            <h2>Domain Hosting Locations (GeoIP)</h2>
+            <div class="loading" id="loadingHostedInDistribution">Loading hosted-in distribution data...</div>
+            <div class="error" id="errorHostedInDistribution"></div>
+            
+            <div class="hosted-in-distribution-chart-container">
+                <canvas id="hostedInDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="hostedInDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalGeoIPDomains">-</h3>
+                    <p>Domains with GeoIP</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topHostingCountry">-</h3>
+                    <p>Top Country</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="topHostingCity">-</h3>
+                    <p>Top City</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="uniqueCountries">-</h3>
+                    <p>Unique Countries</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="geoIPCoverage">-</h3>
+                    <p>GeoIP Coverage</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="words-distribution-section">
+            <h2>Words Distribution (Hyphenated vs Non-Hyphenated)</h2>
+            <div class="loading" id="loadingWordsDistribution">Loading words distribution data...</div>
+            <div class="error" id="errorWordsDistribution"></div>
+            
+            <div class="words-distribution-chart-container">
+                <canvas id="wordsDistributionChart"></canvas>
+            </div>
+            
+            <div class="stats" id="wordsDistributionStats">
+                <div class="stat-card">
+                    <h3 id="totalWordsWithHyphens">-</h3>
+                    <p>With Hyphens</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="totalWordsWithoutHyphens">-</h3>
+                    <p>Without Hyphens</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="avgWordsWithHyphens">-</h3>
+                    <p>Most Common (w/ Hyphens)</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="avgWordsWithoutHyphens">-</h3>
+                    <p>Most Common (w/o Hyphens)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="static/js/dashboard.js"></script>
+</body>
+</html>

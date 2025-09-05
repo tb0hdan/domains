@@ -1,0 +1,52 @@
+{
+  "prefixDistribution": [
+    {
+      "prefix": "c",
+      "count": 163307349
+    },
+    {
+      "prefix": "m",
+      "count": 135490217
+    },
+    {
+      "prefix": "a",
+      "count": 108678539
+    },
+    {
+      "prefix": "s",
+      "count": 105207355
+    },
+    {
+      "prefix": "w",
+      "count": 94791819
+    },
+    {
+      "prefix": "e",
+      "count": 88453917
+    },
+    {
+      "prefix": "p",
+      "count": 86610034
+    },
+    {
+      "prefix": "d",
+      "count": 85583333
+    },
+    {
+      "prefix": "h",
+      "count": 71887296
+    },
+    {
+      "prefix": "b",
+      "count": 58940064
+    }
+  ],
+  "statistics": {
+    "totalPrefixDomains": 1452227842,
+    "totalDomains": 1781057104,
+    "topPrefix": "c",
+    "coveragePercentage": 81.53741049281933,
+    "alphabetCoverage": 26
+  },
+  "lastUpdated": "2025-09-05T04:33:41-04:00"
+}

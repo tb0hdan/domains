@@ -1,0 +1,83 @@
+{
+  "healthDistribution": [
+    {
+      "term": "health",
+      "count": 359395,
+      "category": "general",
+      "activity": "health promotion"
+    },
+    {
+      "term": "dental",
+      "count": 108713,
+      "category": "specialties",
+      "activity": "oral health"
+    },
+    {
+      "term": "clinic",
+      "count": 100705,
+      "category": "facilities",
+      "activity": "outpatient services"
+    },
+    {
+      "term": "medical",
+      "count": 96160,
+      "category": "general",
+      "activity": "healthcare services"
+    },
+    {
+      "term": "doctor",
+      "count": 91663,
+      "category": "professionals",
+      "activity": "medical practice"
+    },
+    {
+      "term": "wellness",
+      "count": 60905,
+      "category": "general",
+      "activity": "wellness programs"
+    },
+    {
+      "term": "precision",
+      "count": 49724,
+      "category": "treatments",
+      "activity": "precision medicine"
+    },
+    {
+      "term": "dentist",
+      "count": 41586,
+      "category": "professionals",
+      "activity": "dental care"
+    },
+    {
+      "term": "hospital",
+      "count": 40867,
+      "category": "facilities",
+      "activity": "patient care"
+    },
+    {
+      "term": "emergency",
+      "count": 34734,
+      "category": "facilities",
+      "activity": "emergency care"
+    }
+  ],
+  "statistics": {
+    "totalHealthDomains": 1309977,
+    "totalDomains": 1781057104,
+    "topTerm": "health",
+    "categoryTypes": {
+      "facilities": 3,
+      "general": 3,
+      "professionals": 2,
+      "specialties": 1,
+      "treatments": 1
+    },
+    "coveragePercentage": 0.07355053339154476,
+    "generalTerms": 516460,
+    "professionalsTerms": 133249,
+    "facilitiesTerms": 176306,
+    "specialtiesTerms": 108713,
+    "treatmentsTerms": 49724
+  },
+  "lastUpdated": "2025-09-05T04:33:41-04:00"
+}

@@ -1,0 +1,80 @@
+{
+  "longestDomains": [
+    {
+      "domain": "jxw52yhvo7qtpyya2uxx7lfwrw5fcacaab2kqyabx2hqeaaunqeqazyaaaanunc.uxzofgy7jd7tzvm3d7qk5mju64ojg73qyqp35ese5wh5oxcddgyvedecmfsqqqx.w3wdjl2xqnj6hkbpmn2gnxl53qn4vfs32w3hs6vjtaztd55e7zwq6j7yncruqzj.xmx7mgq6et27vczac2bcappoczeugop7elv.ns-movec.trendsbongo.com.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "27f4shdyiordny3ht3jh7myovadvcacaad7ggqaavxvqeaetmudaazyaaaal2kq.y2q2zxxks5mdp7mpn6ijj5pijjn74i2f6xmx3eqoxgxgugr2tuspyqdtzpss6m4.g5dawzigvifamt52jqwwpwalshnd3zzgjkixdtxbvsc3x5nwfh66kpdedv7hp2b.5su7xntfqmhwl7rwtvde6vgaeqyzvnud4ud.ns-movec.trendsbongo.com.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "jxw52yhvo7qtpyylcyex7lfwrw5fcacaadcmgvibdndqeagtqieaazyaaaaaver.eycomumfyilncee7fmwlsaleuqmbehbonanrgtab7nc557vwzxixjl2hrml6mez.fd3zylb3jbxpmspj7s3gj3rvzs3uwvoewtmzw3wgah4wq3jnwo2gogtzzpegclq.fv4qmggr536oslnwpq6bxdok6u6s54udxeo.ns-movec.trendsbongo.com.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "www.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.plwww.animalsen.fora.pl.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "b7sientkennivy6ruqox64oo4zrfcacaaahra6qd5usqcaaabqbaazyaaaaoul4.pp5qjfy4oe4omjzrlj5ufsuh7nzl5fd3iqz7jm2ty4uxrilkbhlvmkr6dopt7nf.wwumkhnrx73hcmkbc2mktzxk5cahjpgb7abcsvibfpu3mtlhbekf2bbycxkl55q.ggnnmtfcxjwn3zidc7rfpacg6stwdck576z.ns-movec.trendsbongo.com.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "27f4shdyiordny4hvajx7myovadvcacaacp7msqakbxagagopydqazyaaaabi75.lcigptqrzrz57fkn5plhkfqn2475fjb25ltk22i7awlfbl5weizpjhyb32ex5m2.rzi4r3hzervxw4nprlvejwqhmz2jqjruia7wpc57wog5mjcbv75zzlvjx2ition.ppo5kbcewsyxrpt4p4qizprmctzypdkiv4h.ns-movec.trendsbongo.com.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "a-buffer-overflow-is-a-software-vulnerability.occuring-when-program-writes-data-beyond-the-bounds-of-a-buffer.often-leading-to-overwriting-adjacent-memory.this-can-enable-attackers-to-execute-malicious-code.or-crash-the-program.owo-whats-this.lucek.art.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "www.ptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.toptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.toptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.toptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.top.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "optoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.toptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.toptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.toptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptoptop.top.",
+      "length": 253,
+      "count": 1
+    },
+    {
+      "domain": "a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.a.33322333.xyz.",
+      "length": 253,
+      "count": 1
+    }
+  ],
+  "lengthDistribution": [
+    {
+      "range": "30-35",
+      "count": 313364333
+    },
+    {
+      "range": "36-40",
+      "count": 169656092
+    },
+    {
+      "range": "41-45",
+      "count": 111395830
+    },
+    {
+      "range": "46-50",
+      "count": 86913118
+    },
+    {
+      "range": "50+",
+      "count": 52982381
+    }
+  ],
+  "totalAnalyzed": 1781057104,
+  "averageLongLength": 28.239019599677025,
+  "maxLength": 253,
+  "lastUpdated": "2025-09-05T04:33:41-04:00"
+}

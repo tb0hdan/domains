@@ -1,0 +1,83 @@
+{
+  "hospitalityDistribution": [
+    {
+      "term": "pub",
+      "count": 1246232,
+      "category": "entertainment",
+      "activity": "public house"
+    },
+    {
+      "term": "bar",
+      "count": 797583,
+      "category": "entertainment",
+      "activity": "beverage service"
+    },
+    {
+      "term": "spa",
+      "count": 649982,
+      "category": "services",
+      "activity": "spa services"
+    },
+    {
+      "term": "hotel",
+      "count": 613035,
+      "category": "accommodation",
+      "activity": "lodging services"
+    },
+    {
+      "term": "inn",
+      "count": 310974,
+      "category": "accommodation",
+      "activity": "boutique lodging"
+    },
+    {
+      "term": "travel",
+      "count": 283586,
+      "category": "travel",
+      "activity": "travel services"
+    },
+    {
+      "term": "villa",
+      "count": 249192,
+      "category": "accommodation",
+      "activity": "luxury lodging"
+    },
+    {
+      "term": "food",
+      "count": 209771,
+      "category": "dining",
+      "activity": "food service"
+    },
+    {
+      "term": "club",
+      "count": 208001,
+      "category": "entertainment",
+      "activity": "nightclub"
+    },
+    {
+      "term": "event",
+      "count": 196123,
+      "category": "services",
+      "activity": "event planning"
+    }
+  ],
+  "statistics": {
+    "totalHospitalityDomains": 7765654,
+    "totalDomains": 1781057104,
+    "topTerm": "pub",
+    "categoryTypes": {
+      "accommodation": 3,
+      "dining": 1,
+      "entertainment": 3,
+      "services": 2,
+      "travel": 1
+    },
+    "coveragePercentage": 0.4360137573668722,
+    "accommodationTerms": 1173201,
+    "diningTerms": 209771,
+    "entertainmentTerms": 2251816,
+    "travelTerms": 283586,
+    "servicesTerms": 846105
+  },
+  "lastUpdated": "2025-09-05T04:33:41-04:00"
+}
