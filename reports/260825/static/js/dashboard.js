@@ -13,7 +13,7 @@ let hostedInDistributionChart = null;
 
 async function fetchTldData() {
     try {
-        const response = await fetch('/static/tlds.json');
+        const response = await fetch('static/tlds.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -27,7 +27,7 @@ async function fetchTldData() {
 
 async function fetchShortestData() {
     try {
-        const response = await fetch('/static/shortest.json');
+        const response = await fetch('static/shortest.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -41,7 +41,7 @@ async function fetchShortestData() {
 
 async function fetchLongestData() {
     try {
-        const response = await fetch('/static/longest.json');
+        const response = await fetch('static/longest.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -55,7 +55,7 @@ async function fetchLongestData() {
 
 async function fetchDistributionData() {
     try {
-        const response = await fetch('/static/length-distribution.json');
+        const response = await fetch('static/length-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -69,7 +69,7 @@ async function fetchDistributionData() {
 
 async function fetchWordsDistributionData() {
     try {
-        const response = await fetch('/static/words-distribution.json');
+        const response = await fetch('static/words-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -83,7 +83,7 @@ async function fetchWordsDistributionData() {
 
 async function fetchYearsDistributionData() {
     try {
-        const response = await fetch('/static/years-distribution.json');
+        const response = await fetch('static/years-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -97,7 +97,7 @@ async function fetchYearsDistributionData() {
 
 async function fetchPrefixDistributionData() {
     try {
-        const response = await fetch('/static/prefix-distribution.json');
+        const response = await fetch('static/prefix-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -111,7 +111,7 @@ async function fetchPrefixDistributionData() {
 
 async function fetchLocationDistributionData() {
     try {
-        const response = await fetch('/static/location-distribution.json');
+        const response = await fetch('static/location-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -125,7 +125,7 @@ async function fetchLocationDistributionData() {
 
 async function fetchNamesDistributionData() {
     try {
-        const response = await fetch('/static/names-distribution.json');
+        const response = await fetch('static/names-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -139,7 +139,7 @@ async function fetchNamesDistributionData() {
 
 async function fetchHealthDistributionData() {
     try {
-        const response = await fetch('/static/health-distribution.json');
+        const response = await fetch('static/health-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -153,7 +153,7 @@ async function fetchHealthDistributionData() {
 
 async function fetchHospitalityDistributionData() {
     try {
-        const response = await fetch('/static/hospitality-distribution.json');
+        const response = await fetch('static/hospitality-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -167,7 +167,7 @@ async function fetchHospitalityDistributionData() {
 
 async function fetchHostedInDistributionData() {
     try {
-        const response = await fetch('/static/hosted-in-distribution.json');
+        const response = await fetch('static/hosted-in-distribution.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
