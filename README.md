@@ -226,6 +226,8 @@ I'm just going to leave links to them here for reference.
 
 ## Published works based on this dataset
 
+[Misty Registry: An Empirical Study of Flawed Domain Registry Operation](https://www.usenix.org/system/files/usenixsecurity25-zhang-mingming.pdf)
+
 [Understanding and Characterizing the Adoption of Internationalized Domain Names in Practice](https://ieeexplore.ieee.org/document/10496266)
 
 [Phishing Protection SPF, DKIM, DMARC](https://www.scip.ch/en/?labs.20201008)
