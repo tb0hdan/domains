@@ -193,6 +193,8 @@ on Yacy forum: [https://searchlab.eu/t/domain-list-for-easier-search-bootstrappi
 
 # Additional sources
 
+[Merkle map](https://www.merklemap.com/dns-records-database)
+
 [Rapid7 Sonar FDNS](https://opendata.rapid7.com/sonar.fdns_v2/) - no longer open
 
 [List of .FR domains from AfNIC.fr](http://opendata.afnic.fr/en/products-and-services/services/opendata-en.html)
