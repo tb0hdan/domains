@@ -48,7 +48,7 @@ You can support this project by doing any combination of the following:
 - [x] 1   Billion
 - [x] 1.7 Billion [Github](https://github.com/tb0hdan/domains)
 - [x] 2.7 Billion [Patreon only](https://www.patreon.com/posts/2-708-855-281-133857316)
-- [x] 2.8 Billion [Patreon only](https://www.patreon.com/posts/2-804-615-628-139894383) 
+- [x] 2.8 Billion [Patreon only](https://www.patreon.com/posts/2-804-615-628-139894383)
 
 ### (Wasted) Internet traffic:
 
@@ -58,7 +58,7 @@ You can support this project by doing any combination of the following:
 - [x] 1.3PB
 - [x] 1.5PB
 - [x] 5.7PB
-- [x] 8.1PB  
+- [x] 8.1PB
 
 ### Random facts:
 
