@@ -12,9 +12,7 @@
 
 # Products and services
 
-[Phish](https://phish.domainsproject.org) is a new monitoring service for battling phishing attacks.
-
-[LLMC](https://llmc.domainsproject.org) is a text-based URL classifier that uses [Ollama](https://ollama.com) under the hood.
+[LLMSE](https://llmse.ai) is a LLM-based Search Engine that uses [Ollama](https://ollama.com) under the hood.
 
 
 # World's single largest Internet domains dataset
