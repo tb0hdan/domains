@@ -2,7 +2,7 @@
 
 ## Preferred
 
-[Patreon](https://patreon.com/tb0hdan)
+[DomainsProject website](https://domainsproject.org)
 
 ## Alternative (personal) - - Only if Patreon doesn't work for you
 
