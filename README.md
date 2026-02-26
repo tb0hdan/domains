@@ -48,6 +48,8 @@ You can support this project by doing any combination of the following:
 - [x] 2.8 Billion - Subscription
 - [x] 2.9 Billion - Subscription
 
+### (Wasted) Internet traffic:
+
 - [x] 500TB
 - [x] 925TB
 - [x] 1PB
