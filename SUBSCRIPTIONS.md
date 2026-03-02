@@ -4,7 +4,7 @@
 
 [DomainsProject website](https://domainsproject.org)
 
-## Alternative (personal) - - Only if Patreon doesn't work for you
+## Alternative (personal) - - Only if direct purchase through the website doesn't work for you
 
 [PayPal](https://paypal.me/tb0hdan)
 
