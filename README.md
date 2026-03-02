@@ -47,6 +47,7 @@ You can support this project by doing any combination of the following:
 - [x] 1.7 Billion [Github](https://github.com/tb0hdan/domains)
 - [x] 2.8 Billion - Subscription
 - [x] 2.9 Billion - Subscription
+- [x] 3 Billion - Subscription (yes, it is true)
 
 ### (Wasted) Internet traffic:
 
