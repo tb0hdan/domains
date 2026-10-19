@@ -1,0 +1,13 @@
+{
+  "description": "SA3 Digitals business and personal projects",
+  "domain": "owns.it.com",
+  "subdomain": "sa3digitals",
+  "owner": {
+    "repo": "https://github.com/sa3digital07-sudo/sa3-website",
+    "email": "hello@sa3.digital"
+  },
+  "record": {
+    "CNAME": "sa3-website.sa3digital07.workers.dev"
+  },
+  "proxied": false
+}
