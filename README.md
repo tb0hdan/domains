@@ -21,7 +21,7 @@ This public dataset contains freely available sorted list of Internet domains.
 
 [Github Dataset statistics](STATS.md) vs [Subscription dataset statistics](https://domainsproject.org/stats/)
 
-[Project news](NEWS.md)
+[Project blog](https://domainsproject.org/blog/)
 
 ## Support needed!
 
